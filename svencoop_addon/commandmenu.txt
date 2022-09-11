@@ -26,117 +26,117 @@
 //--------------------------------------------------------
 // Everything below here is editable
 
-"1" "Commands"
+"1" "Команды"
 {
-	"1" "Drop Current Weapon" "drop"
-	"2" "Drop Primary Ammo" "dropammo"
-	"3" "Drop Secondary Ammo" "dropsecammo"
-	"4" "Grenade Warning" "grenade"
-	"5" "Call for Medic" "medic"
-	"6" "Suicide" "kill"
-	"7" "Unstuck" "unstuck"
+	"1" "Бросить текущее оружие" "drop"
+	"2" "Бросить первичные патроны" "dropammo"
+	"3" "Бросить вторичные патроны" "dropsecammo"
+	"4" "Предупреждение о гранате" "grenade"
+	"5" "Позвать медика" "medic"
+	"6" "Совершить самоубийство" "kill"
+	"7" "Отклеиться" "unstuck"
 }
-"2" "Votes"
+"2" "Голосования"
 {
-	"1" "Vote Menu" "votemenu"
-	"2" "Toggle Classic Mode" "voteclassicmode"
-	"3" "Toggle Survival Mode" "votesurvivalmode"
+	"1" "Меню голосования" "votemenu"
+	"2" "Включить классический режим" "voteclassicmode"
+	"3" "Включить режим выживания" "votesurvivalmode"
 }
-"3" "Settings"
+"3" "Настройки"
 {
-	"1" "Performance Options"
+	"1" "Настройки производительности"
 	{
-		"1" "OpenGL Shadows"
+		"1" "Тени OpenGL"
 		{
-			"1" "ON" "r_shadows 1"
-			"2" "OFF" "r_shadows 0"
+			"1" "ВКЛ" "r_shadows 1"
+			"2" "ВЫКЛ" "r_shadows 0"
 		}
-		"2" "Gib Count"
+		"2" "Количество потрохов"
 		{
-			"1" "1 gib" "gibcount 1"
-			"2" "2 gibs" "gibcount 2"
-			"3" "3 gibs" "gibcount 3"
-			"4" "4 gibs" "gibcount 4"
-			"5" "5 gibs" "gibcount 5"
-			"6" "6 gibs" "gibcount 6"
-			"7" "Default" "gibcount 0"
+			"1" "1" "gibcount 1"
+			"2" "2" "gibcount 2"
+			"3" "3" "gibcount 3"
+			"4" "4" "gibcount 4"
+			"5" "5" "gibcount 5"
+			"6" "6" "gibcount 6"
+			"7" "По умолчанию" "gibcount 0"
 		}
 	}
-	"2" "Timelimit"
+	"2" "Лимит времени"
 	{
-		"1" "Disable Timelimits" "mp_notimelimit 1"
-		"2" "Enable Timelimits" "mp_notimelimit 0"
+		"1" "Отключить" "mp_notimelimit 1"
+		"2" "Включить" "mp_notimelimit 0"
 	}
-	"3" "Donor Options"
+	"3" "Настройки донора"
 	{
-		"1" "Toggle Uzi Skin" "uzi_gilded"
+		"1" "Сменить скин Uzi" "uzi_gilded"
 	}
-	"4" "Violence Settings"
+	"4" "Настройки насилия"
 	{
-		"1" "Human Gore On" "violence_hblood 1;violence_hgibs 1"
-		"2" "Human Gore Off" "violence_hblood 0;violence_hgibs 0"
-		"3" "Alien Gore On" "violence_ablood 1;violence_agibs 1"
-		"4" "Alien Gore Off" "violence_ablood 0;violence_agibs 0"
+		"1" "Человеческая кровь/потроха Вкл" "violence_hblood 1;violence_hgibs 1"
+		"2" "Человеческая кровь/потроха Выкл" "violence_hblood 0;violence_hgibs 0"
+		"3" "Кровь/потроха пришельцев Вкл" "violence_ablood 1;violence_agibs 1"
+		"4" "Кровь/потроха пришельцев Выкл" "violence_ablood 0;violence_agibs 0"
 	}
-	"5" "Mouse"
+	"5" "Мышь"
 	{
-		"1" "VGUI Mouse Capture"
+		"1" "Захват мыши VGUI"
 		{
-			"1" "ON" "hud_capturemouse 1"
-			"2" "OFF" "hud_capturemouse 0"
+			"1" "ВКЛ" "hud_capturemouse 1"
+			"2" "ВЫКЛ" "hud_capturemouse 0"
 		}
-		"2" "Sensitivity 1.0" "sensitivity 1.0"
-		"3" "Sensitivity 2.0" "sensitivity 2.0"
-		"4" "Sensitivity 3.0" "sensitivity 3.0"
-		"5" "Sensitivity 4.0" "sensitivity 4.0"
-		"6" "Sensitivity 6.0" "sensitivity 6.0"
-		"7" "Sensitivity 8.0" "sensitivity 8.0"
-		"8" "Sensitivity 10.0" "sensitivity 10.0"
-		"9" "Sensitivity 12.0" "sensitivity 12.0"
-		"10" "Sensitivity 14.0" "sensitivity 14.0"
+		"2" "Чувствительность 1.0" "sensitivity 1.0"
+		"3" "Чувствительность 2.0" "sensitivity 2.0"
+		"4" "Чувствительность 3.0" "sensitivity 3.0"
+		"5" "Чувствительность 4.0" "sensitivity 4.0"
+		"6" "Чувствительность 6.0" "sensitivity 6.0"
+		"7" "Чувствительность 8.0" "sensitivity 8.0"
+		"8" "Чувствительность 10.0" "sensitivity 10.0"
+		"9" "Чувствительность 12.0" "sensitivity 12.0"
+		"10" "Чувствительность 14.0" "sensitivity 14.0"
 	}
-	"6" "Fast Weapon Switching"
+	"6" "Быстрая смена оружия"
 	{
-		"1" "ON" "hud_fastswitch 1"
-		"2" "OFF" "hud_fastswitch 0"
+		"1" "ВКЛ" "hud_fastswitch 1"
+		"2" "ВЫКЛ" "hud_fastswitch 0"
 	}
 }
-"4" "Team Message"
+"4" "Командное сообщение"
 {
-	"1" "General"
+	"1" "Общее"
 	{
-		"1" "Medic!" "say Medic!"
-		"2" "Need Backup!" "say Need backup!"
-		"3" "AFFIRMATIVE"	"say Affirmative"
-		"4" "NEGATIVE" "say Negative"
+		"1" "Медик!" "say Medic!"
+		"2" "Нужно подкрепление!" "say Need backup!"
+		"3" "ПОНЯЛ"	"say Affirmative"
+		"4" "НИКАК НЕТ" "say Negative"
 	}
-	"2" "Enemy"
+	"2" "Враги"
 	{
-		"1" "Enemy Spotted" "say Enemy spotted..."
-		"2" "Human Grunts" "say Squad of Human Grunts spotted"
-		"3" "Alien Grunts" "say Squad of Alien Grunts spotted"
-		"4" "Assasins" "say Assasins spotted"
-		"5" "Garg" "say Garg Spotted! Stock up on explosives and engage"
-		"6" "Baby Garg" "say Baby Garg in sight"
+		"1" "Вижу врага" "say Enemy spotted..."
+		"2" "Пехотинцы" "say Squad of Human Grunts spotted"
+		"3" "Пришельцы-пехотинцы" "say Squad of Alien Grunts spotted"
+		"4" "Ассасины" "say Assasins spotted"
+		"5" "Гарг" "say Garg Spotted! Stock up on explosives and engage"
+		"6" "Малыш Гарг" "say Baby Garg in sight"
 		"7" "Apache" "say Apache Spotted in my area"
 		"8" "Osprey" "say Osprey in sight"
-		"9" "Big Momma" "say Big Momma sighted"
+		"9" "Большая мамочка" "say Big Momma sighted"
 		}
-	"3" "Team Mate"
+	"3" "Союзники"
 	{
-		"1" "Pull back!" "say Team mate, pull back for health and armor!"
-		"2" "Stay together team!" "say Stay together team!"
-		"3" "Follow me!" "say Follow me!"
+		"1" "Отступаем!" "say Team mate, pull back for health and armor!"
+		"2" "Оставайтесь вместе!" "say Stay together team!"
+		"3" "Следуйте за мной!" "say Follow me!"
 	}
-	"4" "State Report"
+	"4" "Доклад о состоянии"
 	{
-		"1" "Going for Health/ammo" "say I'm heading back for health and ammo"
-		"2" "Low on Health!" "say I'm low on health"
-		"3" "Low on ammo!" "say I'm low on ammo"
-		"4" "Low on ammo & health" "say Need health and ammo urgently!"
+		"1" "Иду за аптечкой/патронами" "say I'm heading back for health and ammo"
+		"2" "Низкий уровень здоровья!" "say I'm low on health"
+		"3" "Мало патронов!" "say I'm low on ammo"
+		"4" "Мало патронов и здоровья" "say Need health and ammo urgently!"
 	}
 }
-"5" "Player Model"
+"5" "Модель игрока"
 {
 	"1" "Hazardous Environment Team"
 	{
@@ -152,7 +152,7 @@
 		"10" "HEV Barney" "model hevbarney"
 		"11" "HEV Benton" "model hevbarney2"
 	}
-	"2" "Black Mesa Science Team"
+	"2" "Научная группа Чёрной Мезы"
 	{
 		"1" "Gordon" "model scientist6"
 		"2" "Walter" "model scientist"
@@ -162,7 +162,7 @@
 		"6" "Rosenberg" "model scientist5"
 		"7" "Cleansuit" "model cl_suit"
 	}
-	"3" "Black Mesa Support Staff"
+	"3" "Персонал поддержки Чёрной Мезы"
 	{
 		"1" "Barney" "model barney"
 		"2" "Benton" "model barney2"
@@ -193,7 +193,7 @@
 		"3" "Robo" "model robo"
 		"4" "Cannibal" "model cannibal"
 	}
-	"6" "Military"
+	"6" "Военные"
 	{
 		"1" "Grunt" "model OP4_Grunt"
 		"2" "Grunt 2" "model OP4_Grunt2"
@@ -210,7 +210,7 @@
 		"13" "Soldier Slick" "model OP4_Scientist_Slick"
 		"14" "Soldier Walter" "model OP4_Scientist_Walter"
 	}
-	"7" "Military 2"
+	"7" "Военные 2"
 	{
 		"1" "Shotgun" "model OP4_Shotgun"
 		"2" "Shotgun 2" "model OP4_Shotgun2"
@@ -241,39 +241,39 @@
 		"12" "Worker" "model th_worker"
 	}
 }
-"6" "Camera"
+"6" "Камера"
 {
-	"1" "Chasecam"
+	"1" "Камера преследования"
 	{
-		"1" "ON" "thirdperson"
-		"2" "OFF" "firstperson"
+		"1" "ВКЛ" "thirdperson"
+		"2" "ВЫКЛ" "firstperson"
 	}
-	"2" "Camera Settings"
+	"2" "Настройки камеры"
 	{
-		"1" "Look at Crosshairs"
+		"1" "Смотреть на прицел"
 		{
-			"1" "ON" "cam_followaim 1"
-			"2" "OFF" "cam_followaim 0"
+			"1" "ВКЛ" "cam_followaim 1"
+			"2" "ВЫКЛ" "cam_followaim 0"
 		}
-		"2" "View Smoothing"
+		"2" "Сглаживание обзора"
 		{
-			"1" "ON" "cam_snapto 0"
-			"2" "OFF" "cam_snapto 1"
+			"1" "ВКЛ" "cam_snapto 0"
+			"2" "ВЫКЛ" "cam_snapto 1"
 		}
 	}
-	"3" "Presets"
+	"3" "Предустановки"
 	{
-		"1" "Normal" "cam_idealpitch 0;cam_idealdist 128;cam_idealyaw 0;cam_snapto 0;cam_followaim 0"
-		"2" "Right Side Aim" "cam_idealpitch 0;cam_idealdist 45; cam_idealyaw 15;cam_snapto 1;cam_followaim 1"
-		"3" "Left Side Aim" "cam_idealpitch 0;cam_idealdist 45; cam_idealyaw -15;cam_snapto 1;cam_followaim 1"
-		"4" "Eagle Eye Far" "cam_idealpitch 90;cam_idealdist 1000;cam_idealyaw 0"
-		"5" "Eagle Eye Med" "cam_idealpitch 90;cam_idealdist 500;cam_idealyaw 0"
-		"6" "Beauty Shot" "cam_idealpitch 11;cam_idealdist 90;cam_idealyaw 135"
-		"7" "Beauty Shot2" "cam_idealpitch 11;cam_idealdist 90;cam_idealyaw 225"
-		"8" "Close Up" "cam_idealpitch 0;cam_idealdist 50;cam_idealyaw 225"
-		"9" "Upside Down" "cam_idealpitch 180;cam_idealdist 0;cam_idealyaw 180"
+		"1" "Обычный" "cam_idealpitch 0;cam_idealdist 128;cam_idealyaw 0;cam_snapto 0;cam_followaim 0"
+		"2" "Прицел справа" "cam_idealpitch 0;cam_idealdist 45; cam_idealyaw 15;cam_snapto 1;cam_followaim 1"
+		"3" "Прицел слева" "cam_idealpitch 0;cam_idealdist 45; cam_idealyaw -15;cam_snapto 1;cam_followaim 1"
+		"4" "Орлиный глаз далеко" "cam_idealpitch 90;cam_idealdist 1000;cam_idealyaw 0"
+		"5" "Орлиный глаз средне" "cam_idealpitch 90;cam_idealdist 500;cam_idealyaw 0"
+		"6" "Красивый снимок" "cam_idealpitch 11;cam_idealdist 90;cam_idealyaw 135"
+		"7" "Красивый снимок 2" "cam_idealpitch 11;cam_idealdist 90;cam_idealyaw 225"
+		"8" "Близко" "cam_idealpitch 0;cam_idealdist 50;cam_idealyaw 225"
+		"9" "Сверху вниз" "cam_idealpitch 180;cam_idealdist 0;cam_idealyaw 180"
 	}
-	"4" "Distance"
+	"4" "Расстояние"
 	{
 		"1" "0" "cam_idealdist 0"
 		"2" "45" "cam_idealdist 45"
@@ -284,7 +284,7 @@
 		"7" "512" "cam_idealdist 512"
 		"8" "1024" "cam_idealdist 1024"
 	}
-	"5" "Rotation"
+	"5" "Поворот"
 	{
 		"1" "0" "cam_idealyaw 0"
 		"2" "15" "cam_idealyaw 20"
@@ -297,15 +297,15 @@
 		"9" "315" "cam_idealyaw 315"
 	}
 }
-"7" "Media Player"
+"7" "Медиапроигрыватель"
 {
-	"1" "Open Media Player" "MediaPlayer"
-	"2" "Forwards" "NextSong"
-	"3" "Backwards" "LastSong"
-	"4" "Random" "RandomSong"
-	"5" "Play" "NextSong"
-	"6" "Stop" "StopSong"
+	"1" "Открыть" "MediaPlayer"
+	"2" "Далее" "NextSong"
+	"3" "Назад" "LastSong"
+	"4" "Случайное" "RandomSong"
+	"5" "Играть" "NextSong"
+	"6" "Стоп" "StopSong"
 }
-"8" "Mission Briefing" "missionbriefing"
-"9" "Show Inventory" "inventory"
-//"10" "Change Class" "classmenu"
+"8" "Инструктаж миссии" "missionbriefing"
+"9" "Показать инвентарь" "inventory"
+//"10" "Сменить класс" "classmenu"
