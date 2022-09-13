@@ -140,29 +140,34 @@ Invmenu_DropAll
 }
 
 // Spectator menu
+// Режим заблокированной камеры преследования
 Spec_Mode1
 {
-Locked Chase-Camera Mode
+Rezhim zablokirovannoj kamery presledovaniya
 }
 
+// Режим свободной камеры преследования
 Spec_Mode2
 {
-Free Chase-Camera Mode
+Rezhim svobodnoj kamery presledovaniya
 }
 
+// Режим свободного полёта
 Spec_Mode3
 {
-Free Roaming Mode
+Rezhim svobodnogo polyota
 }
 
+// Нет целей. Невозможно переключиться в режим камеры преследования.
 Spec_NoTarget
 {
-No valid targets. Cannot switch to Chase-Camera Mode.
+Net celej. Nevozmozhno pereklyuchit'sya v rezhim kamery presledovaniya.
 }
 
+// ENTER - играть  ОГОНЬ - следующая цель  АЛЬТ-ОГОНЬ - предыдущая цель  ПРЫЖОК - смена режима
 Spec_Help
 {
-ENTER to Play  FIRE for Next Target  ALT-FIRE for Prev Target  JUMP to Change Modes
+ENTER - igrat'  OGON'' - sleduyushhaya cel'  AL''T-OGON'' - predydushhaya cel'  PRYZhOK - smena rezhima
 }
 
 Spec_Help2
