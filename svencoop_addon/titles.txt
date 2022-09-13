@@ -28,54 +28,54 @@ OK
 
 Menu_Cancel
 {
-ÐžÑ‚Ð¼ÐµÐ½Ð°
+Îòìåíà
 }
 
 Menu_Yes
 {
-Ð”Ð°
+Äà
 }
 
 Menu_No
 {
-ÐÐµÑ‚
+Íåò
 }
 
 Menu_Spectate
 {
-ÐÐ°Ð±Ð»ÑŽÐ´Ð°Ñ‚ÑŒ
+Íàáëþäàòü
 }
 
 // MOTD/Mission window
 Textwindow_Mission_Briefing
 {
-Ð˜Ð½ÑÑ‚Ñ€ÑƒÐºÑ‚Ð°Ð¶ Ð¼Ð¸ÑÑÐ¸Ð¸
+Èíñòðóêòàæ ìèññèè
 }
 
 Textwindow_Button_Mission_Briefing
 {
-Ð˜Ð½ÑÑ‚Ñ€ÑƒÐºÑ‚Ð°Ð¶ Ð¼Ð¸ÑÑÐ¸Ð¸ >>
+Èíñòðóêòàæ ìèññèè >>
 }
 
 Textwindow_Button_MOTD
 {
-<< Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ð´Ð½Ñ
+<< Ñîîáùåíèå äíÿ
 }
 
 // Vote menu
 Votemenu_Topcaption
 {
-Sven Co-op      ÐœÐµÐ½ÑŽ Ð³Ð¾Ð»Ð¾ÑÐ¾Ð²Ð°Ð½Ð¸Ñ
+Sven Co-op      Ìåíþ ãîëîñîâàíèÿ
 }
 
 Votemenu_Topnoplayer
 {
-Ð˜Ð³Ñ€Ð¾Ðº Ð½Ðµ Ð²Ñ‹Ð±Ñ€Ð°Ð½!
+Èãðîê íå âûáðàí!
 }
 
 Votemenu_Topnomap
 {
-ÐšÐ°Ñ€Ñ‚Ð° Ð½Ðµ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð°!
+Êàðòà íå âûáðàíà!
 }
 
 Button_Votekick
@@ -101,42 +101,42 @@ Votemap
 // Inventory menu
 Invmenu_Topcaption
 {
-Ð˜Ð½Ð²ÐµÐ½Ñ‚Ð°Ñ€ÑŒ
+Èíâåíòàðü
 }
 
 Invmenu_NoInventory
 {
-Ð’ Ð¸Ð½Ð²ÐµÐ½Ñ‚Ð°Ñ€Ðµ Ð½Ð¸Ñ‡ÐµÐ³Ð¾ Ð½ÐµÑ‚
+Â èíâåíòàðå íè÷åãî íåò
 }
 
 Invmenu_NoItemSelected
 {
-ÐŸÑ€ÐµÐ´Ð¼ÐµÑ‚ Ð½Ðµ Ð²Ñ‹Ð±Ñ€Ð°Ð½
+Ïðåäìåò íå âûáðàí
 }
 
 Invmenu_NoItemName
 {
-Ð‘ÐµÐ·Ñ‹Ð¼ÑÐ½Ð½Ñ‹Ð¹ Ð¿Ñ€ÐµÐ´Ð¼ÐµÑ‚
+Áåçûìÿííûé ïðåäìåò
 }
 
 Invmenu_NoItemDescription
 {
-ÐÐµÑ‚ Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ñ Ð¿Ñ€ÐµÐ´Ð¼ÐµÑ‚Ð°
+Íåò îïèñàíèÿ ïðåäìåòà
 }
 
 Invmenu_Activate
 {
-ÐÐºÑ‚Ð¸Ð²Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¿Ñ€ÐµÐ´Ð¼ÐµÑ‚
+Àêòèâèðîâàòü ïðåäìåò
 }
 
 Invmenu_Drop
 {
-Ð‘Ñ€Ð¾ÑÐ¸Ñ‚ÑŒ Ð¿Ñ€ÐµÐ´Ð¼ÐµÑ‚
+Áðîñèòü ïðåäìåò
 }
 
 Invmenu_DropAll
 {
-Ð‘Ñ€Ð¾ÑÐ¸Ñ‚ÑŒ Ð’Ð¡Ð• Ð¿Ñ€ÐµÐ´Ð¼ÐµÑ‚Ñ‹
+Áðîñèòü ÂÑÅ ïðåäìåòû
 }
 
 // Spectator menu
