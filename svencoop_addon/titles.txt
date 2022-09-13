@@ -28,54 +28,54 @@ OK
 
 Menu_Cancel
 {
-Cancel
+Отмена
 }
 
 Menu_Yes
 {
-Yes
+Да
 }
 
 Menu_No
 {
-No
+Нет
 }
 
 Menu_Spectate
 {
-Spectate
+Наблюдать
 }
 
 // MOTD/Mission window
 Textwindow_Mission_Briefing
 {
-Mission Briefing
+Инструктаж миссии
 }
 
 Textwindow_Button_Mission_Briefing
 {
-Mission Briefing >>
+Инструктаж миссии >>
 }
 
 Textwindow_Button_MOTD
 {
-<< Message of the Day
+<< Сообщение дня
 }
 
 // Vote menu
 Votemenu_Topcaption
 {
-Sven Co-op      Vote Menu
+Sven Co-op      Меню голосования
 }
 
 Votemenu_Topnoplayer
 {
-No player selected!
+Игрок не выбран!
 }
 
 Votemenu_Topnomap
 {
-No map selected!
+Карта не выбрана!
 }
 
 Button_Votekick
@@ -101,42 +101,42 @@ Votemap
 // Inventory menu
 Invmenu_Topcaption
 {
-Inventory
+Инвентарь
 }
 
 Invmenu_NoInventory
 {
-You haven't got any inventory
+В инвентаре ничего нет
 }
 
 Invmenu_NoItemSelected
 {
-No item selected
+Предмет не выбран
 }
 
 Invmenu_NoItemName
 {
-Nameless item
+Безымянный предмет
 }
 
 Invmenu_NoItemDescription
 {
-No item description
+Нет описания предмета
 }
 
 Invmenu_Activate
 {
-Activate Item
+Активировать предмет
 }
 
 Invmenu_Drop
 {
-Drop Item
+Бросить предмет
 }
 
 Invmenu_DropAll
 {
-Drop ALL Items
+Бросить ВСЕ предметы
 }
 
 // Spectator menu
