@@ -170,65 +170,66 @@ Spec_Help
 ENTER - igrat'  OGON'' - sleduyushhaya cel'  AL''T-OGON'' - predydushhaya cel'  PRYZhOK - smena rezhima
 }
 
+// Ваши текстовые сообщения могут видеть только другие наблюдатели
 Spec_Help2
 {
-Your text messages can only be seen by other Spectators
+Vashi tekstovye soobshheniya mogut videt' tol'ko drugie nablyudateli
 }
 
 Spectators
 {
-Spectators
+Наблюдатели
 }
 
 Unassigned
 {
-Unassigned
+Неназначенные
 }
 
 // Scoreboard
 TEAMS
 {
-TEAMS
+КОМАНДЫ
 }
 
 PLAYERS
 {
-PLAYERS
+ИГРОКИ
 }
 
 CLASS
 {
-CLASS
+КЛАСС
 }
 
 HEALTH
 {
-HEALTH
+ЗДОРОВЬЕ
 }
 
 ARMOR
 {
-ARMOR
+БРОНЯ
 }
 
 SCORE
 {
-SCORE
+СЧЁТ
 }
 
 DEATHS
 {
-DEATHS
+СМЕРТИ
 }
 
 LATENCY
 {
-LATENCY
+ЗАДЕРЖКА
 }
 
 VOICE
 {
-VOICE
+ГОЛОС
 }
 
 Muted
