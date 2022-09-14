@@ -483,45 +483,45 @@ $fadeout 1.5
 
 CR28
 {
-SUBJECT:
-Gordon Freeman
-Male, age 27
+ОБЪЕКТ:
+Гордон Фримен
+Мужчина, 27 лет
 }
 
 CR29
 {
-EDUCATION:
-Ph.D., MIT, Theoretical Physics
+ОБРАЗОВАНИЕ:
+Доктор философии, Массачусетский технологический институт, Теоретическая физика
 }
 
 CR30
 {
-POSITION:
-Research Associate
+ДОЛЖНОСТЬ:
+Научный сотрудник
 }
 
 CR31
 {
-ASSIGNMENT:
-Anomalous Materials Laboratory
+НАЗНАЧЕНИЕ:
+Лаборатория аномальных материалов
 }
 
 CR32
 {
-CLEARANCE:
-Level 3
+ДОПУСК:
+Уровень 3
 }
 
 CR33
 {
-ADMINISTRATIVE SPONSOR:
-Classified
+АДМИНИСТРАТИВНЫЙ СПОНСОР:
+Засекречен
 }
 
 CR34
 {
-DISASTER RESPONSE PRIORITY:
-Discretionary
+ПРИОРИТЕТ РЕАГИРОВАНИЯ НА ЧРЕЗВЫЧАЙНЫЕ СИТУАЦИИ:
+Дискреционный
 }
 
 $fadein 0.03
@@ -529,24 +529,24 @@ $holdtime 9
 
 GAMEOVER
 {
-SUBJECT:  FREEMAN
+ОБЪЕКТ: ФРИМЕН
 
-STATUS:  EVALUATION TERMINATED
+СТАТУС: ОЦЕНКА ПРЕКРАЩЕНА
 
-POSTMORTEM:
-Subject failed to effectively utilize
-human assets in achievement of goal.
+ПОСМЕРТНО:
+Объект не смог эффективно использовать
+человеческие ресурсы для достижения цели.
 }
 
 $fadein 0.03
 $holdtime 9
 TRAITOR
 {
-SUBJECT:  FREEMAN
+ОБЪЕКТ: ФРИМЕН
 
-STATUS:  HIRED
+СТАТУС: НАНЯТ
 
-AWAITING ASSIGNMENT
+ОЖИДАЕТ НАЗНАЧЕНИЯ
 }
 
 
@@ -554,12 +554,12 @@ $fadein 0.03
 $holdtime 9
 LOSER
 {
-SUBJECT:  FREEMAN
+ОБЪЕКТ: ФРИМЕН
 
-STATUS:  OBSERVATION TERMINATED
+СТАТУС: НАБЛЮДЕНИЕ ПРЕКРАЩЕНО
 
-POSTMORTEM:
-Subject declined offer of employment.
+ПОСМЕРТНО:
+Объект отклонил предложение о приёме на работу.
 }
 
 //CHAPTER TITLES
@@ -569,7 +569,7 @@ $position -1 0.4
 $holdtime 3.5
 T0A0TITLE
 {
-HAZARD COURSE
+ТРЕНИРОВОЧНЫЙ КУРС
 }
 
 
@@ -577,107 +577,107 @@ $position -1 0.65
 
 OPENTITLE3
 {
-Welcome to Sven Co-op Half-Life
+Добро пожаловать в Sven Co-op Half-Life
 }
 
 OPENTITLE4
 {
-Welcome to Sven Co-op Half-Life
+Добро пожаловать в Sven Co-op Half-Life
 }
 
 C0A0TITLE
 {
-BLACK MESA INBOUND
+ПРИБЫТИЕ В ЧЁРНУЮ МЕЗУ
 }
 
 C0A1TITLE
 {
-ANOMALOUS MATERIALS
+АНОМАЛЬНЫЕ МАТЕРИАЛЫ
 }
 
 C1A1TITLE
 {
-UNFORESEEN CONSEQUENCES
+НЕПРЕДВИДЕННЫЕ ПОСЛЕДСТВИЯ
 }
 
 C1A2TITLE
 {
-OFFICE COMPLEX
+ОФИСНЫЙ КОМПЛЕКС
 }
 
 C1A3TITLE
 {
-"WE'VE GOT HOSTILES"
+"У НАС ВРАГИ"
 }
 
 C1A4TITLE
 {
-BLAST PIT
+РАКЕТНАЯ ШАХТА
 }
 
 C2A1TITLE
 {
-POWER UP
+ПОДАЧА ПИТАНИЯ
 }
 
 C2A2TITLE
 {
-ON A RAIL
+ПО РЕЛЬСАМ
 }
 
 C2A3TITLE
 {
-APPREHENSION
+МРАЧНЫЕ ПРЕДЧУВСТВИЯ
 }
 
 C2A4TITLE1
 {
-RESIDUE PROCESSING
+ПЕРЕРАБОТКА ОТХОДОВ
 }
 
 C2A4TITLE2
 {
-QUESTIONABLE ETHICS
+СОМНИТЕЛЬНАЯ ЭТИКА
 }
 
 C2A5TITLE
 {
-SURFACE TENSION
+ПОВЕРХНОСТНОЕ НАТЯЖЕНИЕ
 }
 
 C3A1TITLE
 {
-"FORGET ABOUT FREEMAN!"
+"ЗАБУДЬ О ФРИМЕНЕ!"
 }
 
 C3A2TITLE
 {
-LAMBDA CORE
+ЯДРО ЛЯМБДЫ
 }
 
 C4A1TITLE
 {
-XEN
+ЗЕН
 }
 
 C4A1ATITLE
 {
-INTERLOPER
+НАРУШИТЕЛЬ
 }
 
 C4A2TITLE
 {
-GONARCH'S LAIR
+ЛОГОВО ГОНАРХА
 }
 
 C4A3TITLE
 {
-NIHILANTH
+НИХИЛАНТ
 }
 
 C5TITLE
 {
-ENDGAME
+КОНЕЦ ИГРЫ
 }
 
 
@@ -699,7 +699,7 @@ $fadeout 0.5
 
 GAMESAVED
 {
-Saved...
+Сохранено...
 }
 
 // Game title
@@ -745,33 +745,33 @@ $position -1 0.9
 
 TOR1
 {
-Tor:  "Tor been waiting. Come!"
+Тор: "Тор ждал. Заходи!"
 }
 
 TOR2
 {
-Tor:  "Master want this. You get. Bring here."
+Тор: "Хозяин хочет этого. Ты получишь. Принеси сюда."
 }
 
 TOR3
 {
-Tor:  "Tor eat now."
+Тор: "Тор сейчас ест."
 }
 
 TOR4
 {
-Tor think: humans die now. Master say "No". Tor like not.
+Тор думает: сейчас люди умирают. Хозяин скажет "Нет". Тор вроде нет.
 }
 
 TOR22
 {
-Tor:  Master say: Humans wait here... minute...
-Master open door soon, so humans stop power.
+Тор: Хозяин говорит: Люди ждут здесь... минуту...
+Хозяин скоро откроет дверь, чтобы люди остановили подачу энергии.
 }
 
 CHUBBY1
 {
-Chubby:  "HELP!"
+Чабби: "ПОМОГИТЕ!"
 }
 
 FRIENDLYGRUNT1
