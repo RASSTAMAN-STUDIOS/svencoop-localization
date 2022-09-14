@@ -1873,58 +1873,59 @@ HZMEDKIT
 
 HZMOMENT
 {
-ACTIVATE WHEELS AND DIALS
-BY HOLDING DOWN THE USE KEY
-HOLD USE KEY UNTIL BRIDGE IS IN POSITION
+сопюбкъире йнк╗яюлх х пшвюцюлх, сдепфхбюъ
+йкюбхьс хяонкэгнбюрэ
+сдепфхбюире йкюбхьс дн реу онп, онйю лняр
+ме нйюферяъ б мсфмнл онкнфемхх
 }
 
 HZPUSH
 {
-PRESS FORWARD KEY TO MOVE AGAINST BOX
-KEEP PRESSING FORWARD TO PUSH BOX
+мюфлхре йкюбхьс боеп╗д, врнаш дбхцюрэяъ опнрхб йнпнайх
+опнднкфюире мюфхлюрэ боеп╗д, врнаш рнкйюрэ йнпнайс
 }
 
 HZPULL
 {
-PRESS USE + BACKWARD KEYS TOGETHER
-TO PULL BOX BACKWARD
+мюфлхре йкюбхьх хяонкэгнбюрэ + мюгюд блеяре
+врнаш онръмсрэ йнпнайс мюгюд
 }
 
 HZCROWBAR
 {
-MOVE UP TO CROWBAR
-PRESS ATTACK1 KEY TO BREAK OBJECTS
+онднидхре й лнмрхпнбйе
+мюфлхре йкюбхьс юрюйю1, врнаш кнлюрэ назейрш
 }
 
 HZLITEON
 {
-PRESS FLASHLIGHT KEY
-TO TURN FLASHLIGHT ON
+мюфлхре йкюбхьс тнмюпхй
+врнаш бйкчвхрэ тнмюпхй
 }
 
 HZLITEOFF
 {
-PRESS FLASHLIGHT KEY AGAIN
-TO TURN FLASHLIGHT OFF
+ямнбю мюфлхре йкюбхьс тнмюпхй
+врнаш бшйкчвхрэ тнмюпхй
 }
 
 HZWEAPON
 {
-MOVE UP TO WEAPON TO PICK IT UP
+онднидхре й нпсфхч, врнаш онднапюрэ ецн
 }
 
 HZFIREWEAP
 {
-PRESS ATTACK1 KEY FOR PRIMARY ATTACK
-PRESS ATTACK2 KEY FOR ALTERNATE ATTACK
-PRESS RELOAD KEY TO RELOAD AT WILL
+мюфлхре йкюбхьс юрюйю1 дкъ оепбхвмни юрюйх
+мюфлхре йкюбхьс юрюйю2 дкъ юкэрепмюрхбмни юрюйх
+мюфлхре йкюбхьс оепегюпъдйю, врнаш оепегюпъдхрэяъ йнцдю рпеасеряъ
 }
 
 HZARMOR
 {
-PRESS AND HOLD YOUR USE KEY
-HOLD DOWN UNTIL SUIT ARMOR IS CHARGED
-OR CHARGER IS DEPLETED
+мюфлхре х сдепфхбюире йкюбхьс хяонкэгнбюрэ
+сдепфхбюире дн реу онп, онйю апнмъ йнярчлю ме гюпъдхряъ
+хкх онйю гюпъдмне сярпниярбн ме пюгпъдхряъ
 }
 
 HZSWIM
