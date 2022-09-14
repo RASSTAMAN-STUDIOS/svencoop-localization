@@ -234,12 +234,12 @@ VOICE
 
 Muted
 {
-Muted player
+Выключен голос у игрока
 }
 
 Unmuted
 {
-Unmuted player
+Включен голос у игрока
 }
 
 //INTRO CREDITS
@@ -257,152 +257,152 @@ $holdtime 1.2
 
 CR1
 {
-Ted Backman
+Тед Бэкман
 }
 
 CR2
 {
-TK Backman
+ТК Бэкман
 }
 
 CR3
 {
-Kelly Bailey
+Келли Бэйли
 }
 
 CR4
 {
-Yahn Bernier
+Ян Бернье
 }
 
 CR5
 {
-Ken Birdwell
+Кен Бёрдуэлл
 }
 
 CR6
 {
-Steve Bond
+Стив Бонд
 }
 
 CR7
 {
-Dario Casali
+Дарио Касали
 }
 
 CR8
 {
-John Cook
+Джон Кук
 }
 
 CR9
 {
-Greg Coomer
+Грег Кумер
 }
 
 CR10
 {
-Wes Cumberland
+Уэс Камберленд
 }
 
 CR11
 {
-John Guthrie
+Джон Гатри
 }
 
 CR12
 {
-Mona Lisa Guthrie
+Мона Лиза Гатри
 }
 
 CR13
 {
-Mike Harrington
+Майк Харрингтон
 }
 
 CR14
 {
-Monica Harrington
+Моника Харрингтон
 }
 
 CR15
 {
-Brett Johnson
+Бретт Джонсон
 }
 
 CR16
 {
-Chuck Jones
+Чак Джонс
 }
 
 CR17
 {
-Marc Laidlaw
+Марк Лейдлоу
 }
 
 CR18
 {
-Karen Laur
+Карен Лаур
 }
 
 CR19
 {
-Randy Lundeen
+Рэнди Лундин
 }
 
 CR20
 {
-Yatsze Mark
+Ятзе Марк
 }
 
 CR21
 {
-Lisa Mennet
+Лиза Меннет
 }
 
 CR22
 {
-Gabe Newell
+Гейб Ньюэлл
 }
 
 CR23
 {
-Dave Riller
+Дэйв Риллер
 }
 
 CR24
 {
-Aaron Stackpole
+Аарон Стэкпол
 }
 
 CR25
 {
-Jay Stelly
+Джей Стелли
 }
 
 CR26
 {
-Harry Teasley
+Гарри Тизли
 }
 
 CR35
 {
-Steve Theodore
+Стив Теодор
 }
 
 CR36
 {
-Bill Van Buren
+Билл Ван Бюрен
 }
 
 CR37
 {
-Robin Walker
+Робин Уокер
 }
 
 CR38
 {
-Douglas R. Wood
+Дуглас Р. Вуд
 }
 
 //END CREDITS
@@ -418,49 +418,49 @@ $holdtime 4
 
 VALVEIS
 {
-Valve is:
+Valve это:
 }
 
 END1
 {
-Ted Backman
-TK Backman
-Kelly Bailey
-Yahn Bernier
-Ken Birdwell
-Steve Bond
-Dario Casali
-John Cook
-Greg Coomer
-Wes Cumberland
+Тед Бэкман
+ТК Бэкман
+Келли Бэйли
+Ян Бернье
+Кен Бёрдуэлл
+Стив Бонд
+Дарио Касали
+Джон Кук
+Грег Кумер
+Уэс Камберленд
 }
 
 END2
 {
-John Guthrie
-Mona Lisa Guthrie
-Mike Harrington
-Monica Harrington
-Brett Johnson
-Chuck Jones
-Marc Laidlaw
-Karen Laur
-Randy Lundeen
-Yatsze Mark
+Джон Гатри
+Мона Лиза Гатри
+Майк Харрингтон
+Моника Харрингтон
+Бретт Джонсон
+Чак Джонс
+Марк Лейдлоу
+Карен Лаур
+Рэнди Лундин
+Ятзе Марк
 }
 
 END3
 {
-Lisa Mennet
-Gabe Newell
-Dave Riller
-Aaron Stackpole
-Jay Stelly
-Harry Teasley
-Steve Theodore
-Bill Van Buren
-Robin Walker
-Douglas R. Wood
+Лиза Меннет
+Гейб Ньюэлл
+Дэйв Риллер
+Аарон Стэкпол
+Джей Стелли
+Гарри Тизли
+Стив Теодор
+Билл Ван Бюрен
+Робин Уокер
+Дуглас Р. Вуд
 }
 
 //INTRO TITLES
