@@ -776,11 +776,11 @@ CHUBBY1
 
 FRIENDLYGRUNT1
 {
-Grunt: Hey! I don't know who you are, but
-I'm glad you showed up. I can get you
-through this door if you want...
-You'd better stand back, this area's
-supposed to be sealed off.
+Пехотинец: Эй! Я не знаю, кто ты, но
+я рад, что ты появился. Я могу провести
+тебя через эту дверь, если хочешь...
+Вам лучше отойти, эта зона
+должна быть перекрыта.
 }
 
 // Test values -- JAY
@@ -789,7 +789,7 @@ $position -1 -1
 
 SVENCONT1
 {
-To Be Continued...
+Продолжение следует...
 }
 
 
@@ -810,26 +810,26 @@ $fadeout 1.5
 
 SVENCOOPONE
 {
-Warning: The following map, "SvenCoop 1",
-contains scenes of graphic strangeness and
-map design that may cause eye-pain and/or
-severe headaches. We advise discretion.
+Предупреждение: Следующая карта, "SvenCoop 1",
+содержит сцены со странной графикой и
+дизайном карты, которые могут вызвать боль в глазах и/или
+сильные головные боли. Мы советуем соблюдать осторожность.
 
-SvenCoop is completely and utterly
-fictional. Any similarities to ANYTHING
-that could POSSIBLY exist in reality is
-entirely accidental.
+SvenCoop полностью вымышлен.
+Любое сходство с ЧЕМ-ЛИБО, что
+МОГЛО БЫ существовать в реальности,
+совершенно случайно.
 
-Please visit the Official SvenCo-op site at:
+Пожалуйста, посетите официальный сайт SvenCo-op по адресу:
 http://www.svencoop.com
 }
 
 SVENCOOPTWO
 {
-If you know the Chubby-Code, enter it and
-press the "Start" button.
+Если вы знаете Чабби-код, введите его и
+нажмите кнопку "Start".
 
-If you don't know the code, just press Start.
+Если вы не знаете код, просто нажмите Start.
 }
 
 
@@ -853,28 +853,28 @@ $fadeout 1.5
 
 CORETITLE
 {
-INFESTED CORE
+ЗАРАЖЁННОЕ ЯДРО
 }
 
 KDTITLE
 {
-WASTE TUNNELS
+ТУННЕЛИ ДЛЯ ОТХОДОВ
 }
 
 RCTITLE
 {
-REACTOR COMPLEX
+РЕАКТОРНЫЙ КОМПЛЕКС
 }
 
 starttitle
 {
-GUT REACTION
+ИНСТИНКТИВНАЯ РЕАКЦИЯ
 }
 
 
 endtitle1
 {
-SUBJECT:  GORDON FREEMAN
+ОБЪЕКТ: ГОРДОН ФРИМЕН
 }
 
 //INTRO TITLES
@@ -896,7 +896,7 @@ $fadeout 3
 
 endtitle2
 {
-STATUS:  MISSING IN ACTION?
+СТАТУС: ПРОПАЛ БЕЗ ВЕСТИ?
 }
 
 
@@ -919,15 +919,15 @@ $fadeout 1.5
 
 credit1
 {
-Concepted, Designed and Programmed
-by Tim Johnston (AKA Slingblade)
+Концепция, дизайн и программирование
+от Тима Джонстона (он же Slingblade)
 }
 
 
 credit2
 {
-Thanks to the following groups and
-their respective individuals
+Спасибо следующим группам и
+их соответствующим лицам
 }
 
 
@@ -969,30 +969,30 @@ RUST
 
 credit10
 {
-All closet level designers who
-have created add-on levels for HL
+Все дизайнеры уровней, которые
+создали дополнительные уровни для HL
 }
 
 credit11
 {
-Nostromo and Zigzang for
-encouragement and beta testing
+Nostromo и Zigzang за
+поддержку и бета-тестирование
 }
 
 credit12
 {
-To Be Continued...
+Продолжение следует...
 }
 
 
 intro1
 {
-SUBJECT:  GORDON FREEMAN
+ОБЪЕКТ: ГОРДОН ФРИМЕН
 }
 
 intro2
 {
-STATUS:  HIRED
+СТАТУС: НАНЯТ
 }
 
 $position -1 -1
@@ -1012,14 +1012,14 @@ $fadeout .5
 
 core2access
 {
-MAINTENANCE HATCH TO
-REACTOR CORE #2 OPENED
+ОТКРЫТ ЛЮК ТЕХОБСЛУЖИВАНИЯ
+АКТИВНОЙ ЗОНЫ РЕАКТОРА №2
 }
 
 poweron
 {
-POWER TO RESEARCH FACILITY
-HAS BEEN REESTABLISHED
+ПИТАНИЕ ИССЛЕДОВАТЕЛЬСКОГО ЦЕНТРА
+БЫЛО ВОССТАНОВЛЕНО
 }
 
 poweron2
