@@ -1013,7 +1013,7 @@ $fadeout .5
 core2access
 {
 нрйпшр кчй реунаяксфхбюмхъ
-юйрхбмни гнмш пеюйрнпю ╧2
+ъдпю пеюйрнпю #2
 }
 
 poweron
@@ -1024,18 +1024,18 @@ poweron
 
 poweron2
 {
-LOCATE ENTRANCE TO WASTE TUNNELS
+мюидхре бунд б рсммекх дкъ нрунднб
 }
 
 core1shutdowntitle
 {
-REACTOR CORE #1:
-SUCCESSFULLY SHUT DOWN
+ъдпн пеюйрнпю #1:
+сяоеьмн нрйкчвемн
 }
 
 core1shutdowntitle2
 {
-PROCEED TO REACTOR CORE #2...
+оепеидхре й ъдпс пеюйрнпю #2...
 }
 
 $position -1 -1
@@ -1056,22 +1056,21 @@ $fadeout 1.5
 
 intro3
 {
-CONTINGENCIES FOR
-FURTHER CONSIDERATION:
+сякнбхъ дкъ дюкэмеиьецн пюяялнрпемхъ:
 
-COMPLETION OF OBJECTIVES
-***MANDATORY***
+бшонкмемхе гюдюмхи
+***наъгюрекэмн***
 }
 
 YOULOSE
 {
-SUBJECT:  FREEMAN
+назейр: тпхлем
 
-STATUS:  ASSIGNMENT TERMINATED
+ярюрся: мюгмювемхе опейпюыемн
 
-POSTMORTEM:
-Subject did not protect medical staff
-member vital to gain access to test lab.
+онялепрмн:
+нАЗЕЙР МЕ ГЮЫХРХК ВКЕМЮ ЛЕДХЖХМЯЙНЦН ОЕПЯНМЮКЮ,
+ФХГМЕММН БЮФМНЦН ДКЪ ОНКСВЕМХЪ ДНЯРСОЮ Б РЕЯРНБСЧ КЮАНПЮРНПХЧ.
 }
 
 $position -1 -1
@@ -1091,15 +1090,15 @@ $fadeout 1.5
 
 intro4
 {
-OBJECTIVES:
+гюдюмхъ:
 
-RESTORE POWER TO RESEARCH COMPLEX
+бняярюмнбхрэ щмепцнямюафемхе хяякеднбюрекэяйнцн йнлокейяю
 
-LOCATE ENTRANCE TO REACTOR COMPLEX
-VIA WASTE TUNNELS
+мюидхре бунд б пеюйрнпмши йнлокейя
+вепег рсммекх дкъ нрунднб
 
-INITIATE CORE SHUT DOWN SEQUENCE:
-REACTORS 1 AND 2
+хмхжххпнбюрэ онякеднбюрекэмнярэ бшйкчвемхъ ъдпю:
+1 х 2 пеюйрнпш
 }
 
 //
@@ -1110,7 +1109,7 @@ $holdtime 5
 
 THEEND
 {
-THE END
+йнмеж
 }
 // Chapter Objectives
 
@@ -1119,10 +1118,10 @@ $holdtime 5
 
 DELIVER1OBJ
 {
-OBJECTIVE:
+гюдюмхе:
 
-Penetrate defensive systems and gain
-access to the Freight Facility.
+оПНМХЙМХРЕ Б ГЮЫХРМШЕ ЯХЯРЕЛШ Х ОНКСВХРЕ
+ДНЯРСО Й ЦПСГНБНЛС ЙНЛОКЕЙЯС.
 }
 
 DELIVER2OBJ
