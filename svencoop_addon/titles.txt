@@ -1126,67 +1126,67 @@ DELIVER1OBJ
 
 DELIVER2OBJ
 {
-OBJECTIVE:
+ЗАДАНИЕ:
 
-Make your way to Central Command via the
-Freight Elevator and Freight Storage Facility.
+Проложите свой путь к центральному командованию через
+грузовой лифт и помещение для хранения грузов.
 }
 
 DELIVER3OBJ
 {
-OBJECTIVE:
+ЗАДАНИЕ:
 
-Locate and free two scientists being held captive and
-escape together via elevator on opposite side of level.
+Найдите и освободите двух учёных, находящихся в плену, и
+сбежите вместе через лифт на противоположной стороне уровня.
 }
 
 DELIVER4OBJ
 {
-OBJECTIVE:
+ЗАДАНИЕ:
 
-Help the scientists start the portal generator. Once
-the portal is open, get them through it to safety and
-then make the jump yourself.
+Помогите учёным запустить генератор порталов. Как только
+портал откроется, проведите их через него в безопасное место, а
+затем совершите прыжок сами.
 }
 
 DELIVER5OBJ
 {
-OBJECTIVE:
+ЗАДАНИЕ:
 
-Get yourself and the scientists to the nearby landing pad.
-An Osprey is enroute to pick up the remaining troops. Take
-out the troops and get everyone onboard the aircraft.
+Доставьте себя и учёных на ближайшую посадочную площадку.
+Osprey находится в пути, чтобы забрать оставшиеся войска.
+Выведите войска и посадите всех на борт вертолёта.
 }
 
 INGAME4
 {
-You have reached a fork in the road ...
-The path before you goes to the left and to the right.
-Choose your destiny ...
+Вы достигли развилки на дороге ...
+Путь перед вами идёт влево и вправо.
+Выбери свою судьбу ...
 }
 INGAME5
 {
-Scientist 1 Rescued!
+Учёный 1 Спасён!
 }
 
 INGAME6
 {
-Scientist 2 Rescued!
+Учёный 2 Спасён!
 }
 
 INGAME7
 {
-You have found the Security Card!
+Вы нашли карту безопасности!
 }
 
 INGAME8
 {
-Security Card Not Valid for this Door
+Карта безопасности не действительна для этой двери
 }
 
 INGAME9
 {
-Access Permitted with Security Card
+Доступ разрешён картой безопасности
 }
 
 // Opposing Force
@@ -1202,8 +1202,8 @@ $fadeout 1.5
 
 CR27
 {
-Black Mesa Research Facility
-Black Mesa, New Mexico
+Исследовательский центр Чёрная Меза
+Чёрная Меза, Нью-Мексико
 }
 
 //INTRO CREDITS
@@ -1219,62 +1219,62 @@ $holdtime 1
 
 OFCR1
 {
-Stephen Bahl
+Стивен Бал
 }
 
 OFCR2
 {
-Patrick Deupree
+Патрик Дюпри
 }
 
 OFCR3
 {
-John Faulkenbury
+Джон Фолкенбери
 }
 
 OFCR4
 {
-Rob Heironimus
+Роб Хейронимус
 }
 
 OFCR5
 {
-Steve Jones
+Стив Джонс
 }
 
 OFCR6
 {
-Brian Martel
+Брайан Мартел
 }
 
 OFCR7
 {
-David Mertz
+Дэвид Мерц
 }
 
 OFCR8
 {
-Landon Montgomery
+Лэндон Монтгомери
 }
 
 OFCR9
 {
-Tollbooth Willy
+Толбуф Вилли
 }
 
 OFCR10
 {
-Randy Pitchford
+Рэнди Питчфорд
 }
 
 OFCR11
 {
-Sean Reardon
+Шон Рирдон
 }
 
 OFCR12
 {
-Mike Wardwell
+Майк Уордвелл
 }
 
 //END CREDITS
@@ -1288,12 +1288,12 @@ $holdtime 4
 
 GEARBOXIS
 {
-Gearbox is:
+Gearbox это:
 }
 
 THANKSTO
 {
-Special thanks to:
+Особые благодарности:
 }
 
 $holdtime 10
@@ -1301,7 +1301,7 @@ $holdtime 10
 //self credit at end
 SELF
 {
-Svencoop Opposing-force editor:
+Редакторы Svencoop Opposing-force:
 Guardian-tpf-
 jasonleyva@gmail.com
 Edman747
@@ -1309,56 +1309,56 @@ Edman747
 
 THEEND
 {
-Thanks for Playing!
+Спасибо за игру!
 }
 
 //Svencoop Credit
 SVEN
 {
-Special thanks to the SvenCo-op team!
+Особая благодарность команде SvenCo-op!
 }
 
 //edited END1
 OFEND1
 {
-Stephen Bahl
-Patrick Deupree
-John Faulkenbury
-Rob Heironimus
-Steve Jones
-Brian Martel
-David Mertz
-Landon Montgomery
-Randy Pitchford
-Sean Reardon
-Mike Wardwell
+Стивен Бал
+Патрик Дюпри
+Джон Фолкенбери
+Роб Хейронимус
+Стив Джонс
+Брайан Мартел
+Дэвид Мерц
+Лэндон Монтгомери
+Рэнди Питчфорд
+Шон Рирдон
+Майк Уордвелл
 }
 
 //edited END2
 OFEND2
 {
-Matt Armstrong
-Kristy Junio
-Joe Kennebec
-Doug Lombardi
-Eli Luna
-Gabe Newell
-Frank Nuccio
-Genevieve Ostergard
-Stephen Palmer
-Jeff Pobst
+Мэтт Армстронг
+Кристи Джунио
+Джо Кеннебек
+Даг Ломбарди
+Илай Луна
+Гейб Ньюэлл
+Фрэнк Нуччио
+Женевьева Остергард
+Стивен Палмер
+Джефф Побст
 }
 
 //edited END3
 OFEND3
 {
-Dustin Porter
-Danny Richardson
-Harry S. Robins
-David Sawyer
-John Shaffstall
-Mike Shapiro
-Jon St. John
+Дастин Портер
+Дэнни Ричардсон
+Гарри С. Робинс
+Дэвид Сойер
+Джон Шаффстолл
+Майк Шапиро
+Джон Сент-Джон
 Valve Software
 Sierra Studios
 }
@@ -1382,46 +1382,46 @@ OPPOSING FORCE CO-OP
 //edited CR28
 OFCR28
 {
-SUBJECT:
-Adrian Shephard
-Male, age 22
+ОБЪЕКТ:
+Адриан Шепард
+Мужчина, 22 года
 }
 
 //edited CR29
 OFCR29
 {
-TRAINING:
-United States Marine Corps,
-Special Forces
+ОБУЧЕНИЕ:
+Корпус морской пехоты Соединённых Штатов,
+Отряд специального назначения
 }
 
 //edited CR30
 OFCR30
 {
-RANK:
-Corporal
+РАНГ:
+Капрал
 }
 
 //edited CR31
 OFCR31
 {
-Commanding Officer:
-Sergeant Dwight T. Barnes
+Командующий офицер:
+Сержант Дуайт Т. Барнс
 }
 
 //edited CR32
 OFCR32
 {
-CURRENT ASSIGNMENT:
-Hazardous Environment Combat Unit
-Santego Military Base, Arizona
+ТЕКУЩЕЕ НАЗНАЧЕНИЕ:
+Боевое спецподразделение HECU
+Военная база Сантего, Аризона
 }
 
 //edited CR33
 OFCR33
 {
-MISSION:
-Classified
+МИССИЯ:
+Засекречена
 }
 
 
@@ -1429,13 +1429,13 @@ $fadein 0.03
 $holdtime 9
 GFOLLOW_LOSER
 {
-SUBJECT:  SHEPHARD
+ОБЪЕКТ: ШЕПАРД
 
-STATUS:  EVALUATION TERMINATED
+СТАТУС: ОЦЕНКА ПРЕКРАЩЕНА
 
-POSTMORTEM:
-Subject attempted to create
-temporal paradox.
+ПОСМЕРТНО:
+Объект попытался создать
+временной парадокс.
 }
 
 //edited game over
@@ -1443,20 +1443,20 @@ $fadein 0.03
 $holdtime 9
 OFGAMEOVER2
 {
-SUBJECT:  SHEPHARD
+ОБЪЕКТ: ШЕПАРД
 
-STATUS:  DETAINED
+СТАТУС: ЗАДЕРЖАН
 
-FURTHER EVALUATION PENDING
+ОЖИДАЕТСЯ ДАЛЬНЕЙШАЯ ОЦЕНКА
 }
 
 $fadein 0.03
 $holdtime 9
 BC_FAILURE
 {
-SUBJECT:  SHEPHARD
+ОБЪЕКТ: ШЕПАРД
 
-STATUS:  AWAITING COURT MARTIAL
+СТАТУС: ОЖИДАЕТ ВОЕННОГО ТРИБУНАЛА
 }
 
 //edited traitor
@@ -1479,25 +1479,25 @@ $fadein 0.03
 $holdtime 9
 OFGAMEOVER
 {
-SUBJECT:  CPL. SHEPHARD
+ОБЪЕКТ: КАПРАЛ ШЕПАРД
 
-STATUS:  EVALUATION DECLINED
+СТАТУС: ОЦЕНКА ПРЕКРАЩЕНА
 
-POSTMORTEM:
-Subject failed to effectively utilize
-human assets in achievement of goal.
+ПОСМЕРТНО:
+Объект не смог эффективно использовать
+человеческие ресурсы для достижения цели.
 }
 
 $fadein 0.03
 $holdtime 9
 DISP_LOSER
 {
-SUBJECT:  SHEPHARD
+ОБЪЕКТ: ШЕПАРД
 
-STATUS:  ACCIDENTAL DEATH
+СТАТУС: СЛУЧАЙНАЯ СМЕРТЬ
 
-POSTMORTEM:
-DISPLACER SELF-TELEPORT MISHAP
+ПОСМЕРТНО:
+НЕУДАЧНАЯ САМОТЕЛЕПОРТАЦИЯ
 }
 
 //CHAPTER TITLES
@@ -1507,77 +1507,77 @@ $holdtime 3.5
 
 OF_BOOT0TITLE
 {
-Boot Camp
+Учебный лагерь
 }
 
 OF0A0
 {
-OPPOSING FORCE
+ПРОТИВОДЕЙСТВУЮЩАЯ СИЛА
 }
 
 OF1A1TITLE
 {
-INCOMING
+ВСТУПЛЕНИЕ
 }
 
 OF1A3TITLE
 {
-WELCOME TO BLACK MESA
+ДОБРО ПОЖАЛОВАТЬ В ЧЁРНУЮ МЕЗУ
 }
 
 OF1A5TITLE
 {
-"WE ARE PULLING OUT"
+"МЫ ОТСТУПАЕМ"
 }
 
 OF2A1TITLE
 {
-MISSING IN ACTION
+ПРОПАВШИЙ БЕЗ ВЕСТИ
 }
 
 OF2A4TITLE
 {
-FRIENDLY FIRE
+ОГОНЬ ПО СВОИМ
 }
 
 OF3A1TITLE
 {
-WE ARE NOT ALONE
+МЫ НЕ ОДНИ
 }
 
 OF3A3TITLE
 {
-CRUSH DEPTH
+ГЛУБИНА КРУШЕНИЯ
 }
 
 OF4A1TITLE
 {
-VICARIOUS REALITY
+ПОДМЕНЁННАЯ РЕАЛЬНОСТЬ
 }
 
 OF4A4TITLE
 {
-PIT WORM'S NEST
+ГНЕЗДО ПЕЩЕРНОГО ЧЕРВЯ
 }
 
 OF5A1TITLE
 {
-FOXTROT UNIFORM
+ФОКСТРОТ ЮНИФОРМ
 }
 
 OF6A1TITLE
 {
-"THE PACKAGE"
+"ПОСЫЛКА"
 }
 
 OF6A4TITLE
 {
-WORLDS COLLIDE
+СТОЛКНОВЕНИЕ МИРОВ
 }
 
 OF7A0TITLE
 {
-CONCLUSION
+ЗАКЛЮЧЕНИЕ
 }
 
 // In-Game messages
@@ -1608,8 +1608,8 @@ Sven Co-op: Opposing Force
 }
 DEMOTXT1
 {
-SUBJECT:
-GORDON FREEMAN, Ph.D.
+ОБЪЕКТ:
+ГОРДОН ФРИМЕН, Доктор философии.
 }
 
 DEMOTXT2
