@@ -1672,58 +1672,58 @@ $fadeout 1.3
 
 BAINTRO1
 {
-SUBJECT:
-B. Calhoun
+назейр:
+а. йЮКУСМ
 }
 
 BACR29
 {
-EDUCATION:
-2 years Martinson College
-Undecided Major
+напюгнбюмхе:
+2 ЦНДЮ Б ЙНККЕДФЕ лЮПРХМЯНМЮ
+мЕНОПЕДЕКХБЬХИЯЪ ЛЮИНП
 }
 
 BACR30
 {
-EMPLOYER:
-Black Mesa Research Facility
+пюанрндюрекэ:
+хЯЯКЕДНБЮРЕКЭЯЙХИ ЖЕМРП в╦ПМЮЪ лЕГЮ
 }
 
 BACR31
 {
-POSITION:
-Security Officer
+днкфмнярэ:
+яНРПСДМХЙ ЯКСФАШ АЕГНОЮЯМНЯРХ
 }
 
 BACR32
 {
-ASSIGNMENT:
-Area 3 Security
+мюгмювемхе:
+нУПЮМЮ ГНМШ 3
 }
 
 BACR33
 {
-CLEARANCE:
-Level 3
+дносяй:
+сПНБЕМЭ 3
 }
 
 BACR34
 {
-DISASTER RESPONSE PRIORITY:
-Preservation of facility
-equipment and materials.
+опхнпхрер пеюцхпнбюмхъ мю впегбшвюимше яхрсюжхх:
+яНУПЮМЕМХЕ НАНПСДНБЮМХЪ Х
+ЛЮРЕПХЮКНБ ЙНЛОКЕЙЯЮ.
 }
 
 BACR35
 {
-SECONDARY PRIORITY:
-Welfare of research personnel.
+брнпняреоеммши опхнпхрер:
+аКЮЦНЯНЯРНЪМХЕ ХЯЯКЕДНБЮРЕКЭЯЙНЦН ОЕПЯНМЮКЮ.
 }
 
 BACR36
 {
-LOW PRIORITY:
-Personal safety.
+мхгйхи опхнпхрер:
+кХВМЮЪ АЕГНОЮЯМНЯРЭ.
 }
 
 // CHAPTER TITLES
@@ -1734,37 +1734,37 @@ $holdtime 4
 $position -1 0.65
 BA_TRAMTITLE
 {
-LIVING QUARTERS OUTBOUND
+бмеьмхе фхкше яейрнпю
 }
 
 BA_SECURITYTITLE
 {
-INSECURITY
+меаегноюямнярэ
 }
 
 BA_CANALSTITLE
 {
-DUTY CALLS
+днкц гнб╗р
 }
 
 BA_YARDTITLE
 {
-CAPTIVE FREIGHT
+гюубювеммши цпсг
 }
 
 BA_XENTITLE
 {
-FOCAL POINT
+рнвйю тнйсяхпнбйх
 }
 
 BA_POWERTITLE
 {
-POWER STRUGGLE
+анпэаю гю щмепцхч
 }
 
 BA_TELEPORTTITLE
 {
-A LEAP OF FAITH
+опшфнй бепш
 }
 
 $fadein 0.04
@@ -1772,7 +1772,7 @@ $holdtime 2
 
 CHUMTOAD
 {
-CHUMTOAD'S LAIR
+кнцнбн вюлрнюдю
 }
 
 //HAZARD COURSE TEXT
@@ -1797,77 +1797,78 @@ $fadeout 1.5
 $position -1 0.3
 HZBUTTON1
 {
-PRESS YOUR USE KEY TO PUSH A BUTTON
+мюфлхре йкюбхьс хяонкэгнбюрэ, врнаш мюфюрэ ймнойс
 }
 
 $position -1 0.65
 HZBUTTON2
 {
-PRESS YOUR USE KEY TO PUSH A BUTTON
+мюфлхре йкюбхьс хяонкэгнбюрэ, врнаш мюфюрэ ймнойс
 }
 
 HZMOVE
 {
-MOVE FORWARD BY PRESSING FORWARD KEY
-MOVE BACKWARD BY PRESSING BACKWARD KEY
-MOVE LEFT BY PRESSING MOVELEFT
-MOVE RIGHT BY PRESSING MOVERIGHT
+дбхцюиреяэ боеп╗д, мюфхлюъ йкюбхьс боеп╗д
+дбхцюиреяэ мюгюд, мюфхлюъ йкюбхьс мюгюд
+дбхцюиреяэ бкебн, мюфхлюъ дбхфемхе бкебн
+дбхцюиреяэ бопюбн, мюфхлюъ дбхфемхе бопюбн
 }
 
 HZJUMP
 {
-PRESS FORWARD KEY TO RUN FORWARD
-PRESS JUMP KEY TO JUMP
+мюфлхре йкюбхьс боеп╗д, врнаш аефюрэ боеп╗д
+мюфлхре йкюбхьс опшфнй, врнаш опшцмсрэ
 }
 
 HZDUCK
 {
-PRESS FORWARD KEY TO RUN FORWARD
-PRESS DUCK KEY TO DUCK
-PRESS FORWARD + DUCK KEYS TOGETHER
-TO MOVE IN STEALTH MODE
+мюфлхре йкюбхьс боеп╗д, врнаш аефюрэ боеп╗д
+мюфлхре йкюбхьс опхяеярэ, врнаш опхцмсрэяъ
+мюфлхре йкюбхьх боеп╗д + опхяеярэ блеяре
+дкъ оепедбхфемхъ б яйпшрнл пефхле
 }
 
 HZCOMBO
 {
-PRESS FORWARD KEY TO RUN FORWARD
-PRESS JUMP KEY TO JUMP
-PRESS DUCK KEY TO DUCK
-PRESS JUMP KEY TO JUMP
+мюфлхре йкюбхьс боеп╗д, врнаш аефюрэ боеп╗д
+мюфлхре йкюбхьс опшфнй, врнаш опшцмсрэ
+мюфлхре йкюбхьс опхяеярэ, врнаш опхцмсрэяъ
+мюфлхре йкюбхьс опшфнй, врнаш опшцмсрэ
 }
 
 HZDUCKJUMP
 {
-PRESS FORWARD + JUMP TOGETHER,
-THEN THE DUCK KEY
+мюфлхре боеп╗д + опшфнй блеяре,
+гюрел йкюбхьс опхяеярэ
 }
 
 HZLADDER
 {
-PRESS FORWARD KEY TO MOVE UP LADDERS
-PRESS BACKWARD KEY TO MOVE DOWN LADDERS
+мюфлхре йкюбхьс боеп╗д, врнаш ондмхлюрэяъ ббепу он кеярмхжюл
+мюфлхре йкюбхьс мюгюд, врнаш носяйюрэяъ бмхг он кеярмхжюл
 }
 
 HZLJUMP
 {
-WHILE MOVING FORWARD,
-HOLD DOWN DUCK KEY--
-THEN PRESS JUMP
+дбхцюъяэ боеп╗д,
+сдепфхбюире йкюбхьс опхяеярэ
+гюрел мюфлхре опшфнй
 }
 
 $position -1 0.3
 HZLMOD
 {
-BE SURE YOU PICKED UP THE LONG-JUMP MODULE
-AT THE BEGINNING OF THE OBSTACLE
+саедхреяэ, врн бш бгъкх лндскэ дкхммнцн опшфйю
+б мювюке опеоърярбхъ
 }
 
 $position -1 0.65
 HZMEDKIT
 {
-USE MED-KITS BY HOLDING DOWN THE USE KEY
-HOLD DOWN USE KEY UNTIL HEALTH IS
-AT 100 OR KIT IS DEPLETED
+хяонкэгсире юоревйх, сдепфхбюъ йкюбхьс хяонкэгнбюрэ
+сдепфхбюире йкюбхьс хяонкэгнбюрэ дн реу онп,
+онйю спнбемэ гднпнбэъ ме ярюмер люйяхлюкэмшл
+хкх онйю юоревйю ме носяреер
 }
 
 HZMOMENT
