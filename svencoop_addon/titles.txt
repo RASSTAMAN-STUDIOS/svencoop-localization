@@ -1614,21 +1614,21 @@ DEMOTXT1
 
 DEMOTXT2
 {
-CURRENT LOCATION:
-LAMBDA REACTOR COMPLEX
-BLACK MESA RESEARCH FACILITY
+рейсыее леярнонкнфемхе:
+пеюйрнпмши йнлокейя къладю
+хяякеднбюрекэяйхи жемрп в╗пмюъ легю
 }
 
 DEMOTXT3
 {
-TIME:
-CONTAINMENT FAILURE + 48.00 HRS
+бпелъ:
+мюпсьемхе гюыхрш + 48.00 вюянб
 }
 
 DEMOTXT4
 {
-STATUS:
-EVALUATION IN PROGRESS
+ярюрся:
+хд╗р нжемйю
 }
 
 
@@ -1636,13 +1636,13 @@ $holdtime 7.5
 
 DEMOTXT6
 {
-CURRENT EVALUATION:
-UPLINK COMPLETED.
+рейсыюъ нжемйю:
+UPLINK гюбепь╗м.
 }
 
 DEMOTXT7
 {
-REQUIRE FURTHER DATA.
+рпеасчряъ днонкмхрекэмше дюммше.
 }
 
 //Blue Shift
