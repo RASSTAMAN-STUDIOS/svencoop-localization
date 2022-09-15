@@ -1930,53 +1930,52 @@ HZARMOR
 
 HZSWIM
 {
-PRESS YOUR FORWARD KEY
-AIM WITH THE MOUSE AS YOU SWIM
-FIND AIR IF YOU BEGIN TO LOSE HEALTH
-WAIT IN THE AIR UNTIL HEALTH
-RETURNS TO FORMER LEVEL
+мюфлхре йкюбхьс боеп╗д
+жекэреяэ лшьэч бн бпелъ окюбюмхъ
+бяокшбюире мю бнгдсу, еякх бш мювхмюере репърэ гднпнбэе
+онднфдхре мю бнгдсуе, онйю гднпнбэе ме бепм╗ряъ мю опефмхи спнбемэ
 }
 
 HZDAMAGE
 {
-CERTAIN TYPES OF DAMAGE WILL REGISTER
-ON YOUR HEADS-UP DISPLAY.
-DIRECTION OF DAMAGE IS INDICATED BY RED
-FLASHES IN THE CENTER OF YOUR SCREEN
+нопедек╗ммше рхош спнмю асдср нрнапюфюрэяъ
+мю бюьел щйпюме.
+мюопюбкемхе спнмю нангмювюеряъ йпюямшлх
+бяошьйюлх б жемрпе щйпюмю
 }
 
 HZHAZARD
 {
-RADIATION HAZARDS
-ACTIVATE A GEIGER COUNTER
+пюдхюжхнммюъ ноюямнярэ
+юйрхбхпнбюм яв╗рвхй цеицепю
 }
 
 HZSCIENTIST
 {
-APPROACH SCIENTIST
-PRESS USE KEY TO RECEIVE HEALTH FROM SCIENTIST
+онднидхре й св╗мнлс
+мюфлхре йкюбхьс хяонкэгнбюрэ, врнаш онксвхрэ гднпнбэе нр св╗мнцн
 }
 
 HZBARNEY
 {
-APPROACH SECURITY GUARD
-PRESS YOUR USE KEY TO GET HIS HELP
-WALK TOWARD DOOR AND GUARD
-WILL ACTIVATE BUTTONS
+онднидхре й нупюммхйс
+мюфлхре йкюбхьс хяонкэгнбюрэ, врнаш онксвхрэ ецн онлныэ
+онднидхре й дбепх х нупюммхй
+мюфл╗р мю ймнойх
 }
 
 HZTRAIN
 {
-PRESS USE KEY TO ENGAGE TRAIN
-PRESS FORWARD KEY TO ACCELERATE
-PRESS BACKWARD KEY TO DECELERATE
-PRESS USE KEY AGAIN TO DISENGAGE
+мюфлхре йкюбхьс хяонкэгнбюрэ, врнаш гюбеярх онегд
+мюфлхре йкюбхьс боеп╗д дкъ сяйнпемхъ
+мюфлхре йкюбхьс мюгюд дкъ гюледкемхъ
+мюфлхре йкюбхьс хяонкэгнбюрэ еы╗ пюг, врнаш деюйрхбхпнбюрэ сопюбкемхе
 }
 
 HZDONE
 {
-CONGRATULATIONS!
-YOU HAVE COMPLETED
-THE BLACK MESA HAZARD COURSE.
-COME BACK ANY TIME.
+онгдпюбкъел!
+бш гюбепьхкх
+рпемхпнбнвмши йспя в╗пмни легш.
+бнгбпюыюиреяэ б кчане бпелъ.
 }
