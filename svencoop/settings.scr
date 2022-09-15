@@ -43,7 +43,7 @@ DESCRIPTION SERVER_OPTIONS
 {
 	"sv_lan"
 	{
-		"LAN Game"
+		"Локальная игра"
 		{ BOOL }
 		{ "0" }
 	}
@@ -71,38 +71,38 @@ DESCRIPTION SERVER_OPTIONS
 
 	"skill"
 	{
-		"Difficulty Level"
+		"Уровень сложности"
 		{
 			LIST
-			"0: Default" "0"
-			"1: Easy" "1"
-			"2: Hard" "2"
-			"3: Realistic" "3"
+			"0: По умолчанию" "0"
+			"1: Лёгкий" "1"
+			"2: Тяжёлый" "2"
+			"3: Реалистичный" "3"
 		}
 		{ "1.000000" }
 	}
 
 	"sv_region"
 	{
-		"Server Location (Steam)"
+		"Расположение сервера (Steam)"
 		{
 			LIST
-			"0: US East coast" "0"
-			"1: US West coast" "1"
-			"2: South America" "2"
-			"3: Europe" "3"
-			"4: Asia" "4"
-			"5: Australia" "5"
-			"6: Middle East" "6"
-			"7: Africa" "7"
-			"255: World" "255"
+			"0: Восточное побережье США" "0"
+			"1: Западное побережье США" "1"
+			"2: Южная Америка" "2"
+			"3: Европа" "3"
+			"4: Азия" "4"
+			"5: Австралия" "5"
+			"6: Ближний Восток" "6"
+			"7: Африка" "7"
+			"255: Мир" "255"
 		}
 		{ "255.000000" }
 	}
 
 	"mp_noblastgibs"
 	{
-		"Disable Explosion Gibbing"
+		"Отключить потроха от взрывов"
 		{ BOOL }
 		{ "0" }
 	}
@@ -137,98 +137,98 @@ DESCRIPTION SERVER_OPTIONS
 
 	"mp_chattime"
 	{
-		"Intermission Time (sec)"
+		"Время задержки чата (сек)"
 		{ NUMBER 0.000000 60.000000 }
 		{ "6.000000" }
 	}
 
 	"mp_notimelimit"
 	{
-		"Disable All Map Timelimits"
+		"Отключить лимит времени на карту"
 		{ BOOL }
 		{ "0" }
 	}
 
 	"mp_disable_pcbalancing"
 	{
-		"Disable Low-Player-Count Auto-Balancing"
+		"Отключить автобаланс игроков"
 		{ BOOL }
 		{ "0" }
 	}
 
 	"mp_voteallow"
 	{
-		"Allow Voting: "
+		"Разрешить голосование: "
 		{ BOOL }
 		{ "1" }
 	}
 
 	"mp_votekillrequired"
 	{
-		"  Vote Percent for KILL"
+		"  Процент голосов за УБИЙСТВО"
 		{ NUMBER 1.000000 100.000000 }
 		{ "51.000000" }
 	}
 
 	"mp_votekickrequired"
 	{
-		"  Vote Percent for KICK"
+		"  Процент голосов за КИК"
 		{ NUMBER 1.000000 100.000000 }
 		{ "67.000000" }
 	}
 
 	"mp_votebanrequired"
 	{
-		"  Vote Percent for BAN"
+		"  Процент голосов за БАН"
 		{ NUMBER 1.000000 100.000000 }
 		{ "76.000000" }
 	}
 
 	"mp_votemaprequired"
 	{
-		"  Vote Percent for MAP"
+		"  Процент голосов за КАРТУ"
 		{ NUMBER 1.000000 100.000000 }
 		{ "66.000000" }
 	}
 
 	"mp_votetimecheck"
 	{
-		"  Time Vote Lasts"
+		"  Время голосования"
 		{ NUMBER 5.000000 25.000000 }
 		{ "10.000000" }
 	}
 
 	"mp_votetimebetween"
 	{
-		"  Time Between Votes"
+		"  Время между голосованиями"
 		{ NUMBER 10.000000 300.000000 }
 		{ "20.000000" }
 	}
 
 	"mp_playervotedelay"
 	{
-		"  Player 2nd Vote Delay"
+		"  Задержка голосования 2-го игрока"
 		{ NUMBER 20.000000 600.000000 }
 		{ "120.000000" }
 	}
 
 	"mp_votekill_respawndelay"
 	{
-		" VoteKILL Spawn Delay"
+		" Задержка возрождения после VoteKILL"
 		{ NUMBER 6.000000 300.000000 }
 		{ "30.000000" }
 	}
 
 	"mp_kickbantime"
 	{
-		" VoteKICK Ban Time (mins)"
+		" Время бана VoteKICK (мин)"
 		{ NUMBER 1.000000 999.000000 }
 		{ "25.000000" }
 	}
 
 	"mp_bantime"
 	{
-		" VoteBAN Ban Time (mins)"
+		" Время бана VoteBAN (мин)"
 		{ NUMBER 10.000000 99999.000000 }
 		{ "1440.000000" }
 	}
