@@ -104,7 +104,7 @@ DESCRIPTION INFO_OPTIONS
 
 	"s_force_dsound"
 	{
-		"Звук: Использ. DirectSound вместо WASAPI (требует перезагрузки)"
+		"Звук: Исп. DirectSound вместо WASAPI (требует перезагрузки)"
 		{ BOOL }
 		{ "0" }
 	}
