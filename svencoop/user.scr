@@ -4,140 +4,140 @@ DESCRIPTION INFO_OPTIONS
 {
 	"crosshair"
 	{
-		"HUD: Show crosshair"
+		"HUD: Показать прицел"
 		{ BOOL }
 		{ "1" }
 	}
 
 	"hud_weaponautoswitch"
 	{
-		"HUD: New weapon auto-switch mode"
+		"HUD: Новый режим автосмены оружия"
 		{
 			LIST
-			"Never" "0"
-			"Only if better" "1"
-			"Always" "2"
+			"Никогда" "0"
+			"Только если лучшее" "1"
+			"Всегда" "2"
 		}
 		{ "1" }
 	}
 
 	"cl_showfps"
 	{
-		"HUD: Show frame rate (top left corner)"
+		"HUD: Показать частоту кадров (верхний левый угол)"
 		{ BOOL }
 		{ "0" }
 	}
 
 	"cl_hidextra"
 	{
-		"HUD: Hide your donor extras icon"
+		"HUD: Скрыть значок донора"
 		{ BOOL }
 		{ "0" }
 	}
 
 	"cl_hideadmin"
 	{
-		"HUD: Hide your server administrator/owner icon"
+		"HUD: Скрыть значок администратора/владельца сервера"
 		{ BOOL }
 		{ "0" }
 	}
 
 	"hpk_maxsize"
 	{
-		"Graphics: Custom player sprays"
+		"Графика: Спреи игроков"
 		{
 			LIST
-			"Disabled" "-1"
-			"Enabled: Small cache (2MB)" "2"
-			"Enabled: Normal cache (4MB)" "4"
-			"Enabled: Large cache (16MB)" "16"
+			"Выключены" "-1"
+			"Включены: Малый кэш (2МБ)" "2"
+			"Включены: Обычный кэш (4МБ)" "4"
+			"Включены: Большой кэш (16МБ)" "16"
 		}
 		{ "4.000000" }
 	}
 
 	"mp_decals"
 	{
-		"Graphics: Decal limit"
+		"Графика: Лимит декалей"
 		{ NUMBER 1.0 4096.0 }
 		{ "4096.0" }
 	}
 
 	"cl_particles_max"
 	{
-		"Graphics: Particle limit"
+		"Графика: Лимит частиц"
 		{ NUMBER 0.0 4096.0 }
 		{ "800.0" }
 	}
 
 	"cl_bob"
 	{
-		"Graphics: View bobbing"
+		"Графика: Покачивание оружия"
 		{
 			LIST
-			"Disabled" "0"
-			"Normal" "0.01"
-			"Extra" "0.025"
+			"Выключено" "0"
+			"Обычное" "0.01"
+			"Экстра" "0.025"
 		}
 		{ "0.025" }
 	}
 
 	"cl_rollangle"
 	{
-		"Graphics: View rolling"
+		"Графика: Наклоны камеры"
 		{
 			LIST
-			"Disabled" "0"
-			"Normal" "2.0"
-			"Extra" "5.0"
-			"Inverted" "-2.0"
-			"Inverted Extra" "-5.0"
+			"Выключены" "0"
+			"Обычные" "2.0"
+			"Экстра" "5.0"
+			"Инвертированные" "-2.0"
+			"Инверт. Экстра" "-5.0"
 		}
 		{ "2" }
 	}
 
 	"s_mute_unfocused"
 	{
-		"Sound: Mute all output while the window is not in focus"
+		"Звук: Заглушить весь вывод пока окно не в фокусе"
 		{ BOOL }
 		{ "1" }
 	}
 
 	"s_force_dsound"
 	{
-		"Sound: Force DirectSound instead of WASAPI (requires restart)"
+		"Звук: Использовать DirectSound вместо WASAPI (требует перезагрузки)"
 		{ BOOL }
 		{ "0" }
 	}
 
 	"cl_discord"
 	{
-		"Discord: Rich presence"
+		"Discord: Игровая активность"
 		{
 			LIST
-			"In game indicator only" "0"
-			"In game + server stats" "1"
-			"In game + server stats + allow invites to join" "2"
+			"Отображать только игру" "0"
+			"Игра + статистика сервера" "1"
+			"Игра + статистика сервера + разрешить приглашения в игру" "2"
 		}
 		{ "2" }
 	}
 
 	"con_mono"
 	{
-		"Developer: Mono-spaced console font"
+		"Разработчик: Моноширинный шрифт в консоли"
 		{ BOOL }
 		{ "1" }
 	}
 
 	"developer"
 	{
-		"Developer: Mode (degrades speed!)"
+		"Разработчик: Режим (снижает скорость!)"
 		{
 			LIST
-			"Disabled" "0"
-			"Standard" "1"
-			"Verbose" "2"
-			"Very verbose" "3"
-			"Extremely verbose" "4"
+			"Выключен" "0"
+			"Стандартный" "1"
+			"Подробный" "2"
+			"Очень подробный" "3"
+			"Экстремально подробный" "4"
 		}
 		{ "0" }
 	}
