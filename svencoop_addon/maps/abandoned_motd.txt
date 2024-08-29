@@ -1,31 +1,31 @@
 Abandoned
-By Nih
+От Nih
 
 
-Primary objective:
+Основная задача:
 
-Escape with the documents that will save earth and get to the surface using the Main Facility Lift.
+Сбежать с документами, которые спасут Землю, и подняться на поверхность используя лифт главного корпуса.
 
-Secondary objectives:
-(In this order)
+Вторичные цели:
+(В таком порядке)
 
 1.
 
-Retrieve Key card to Waste Disposal Area in the industrial area.
+Получите ключ-карту от зоны утилизации отходов в промышленной зоне.
 
-Activate the Generator to get power to the doors. (Laser fence must be disabled.)
+Активируйте генератор, чтобы подать энергию на двери (лазерное ограждение должно быть отключено).
 
 2.
 
-Find the key card to the Tunnels in the Waste Disposal Area.
+Найдите ключ-карту от туннелей в зоне утилизации отходов.
 
 3.
 
-Optional: You can open the door to Waste Disposal Area for faster access to Main Facility Lift.
+По желанию: Вы можете открыть дверь в зону утилизации отходов, чтобы быстрее попасть в лифт главного корпуса.
 
 4.
 
-Use the Main Facility Lift to reach the surface.
+Воспользуйтесь лифтом главного корпуса, чтобы подняться на поверхность.
 
 
-See MOTD for more story and the read me for map info.
+Подробнее о сюжете читайте в MOTD, а информацию о карте - в read me.
