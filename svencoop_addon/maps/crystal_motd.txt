@@ -1,25 +1,24 @@
-Crystal part I - Created by: AzShadow
-Contact me from: azshadow@gmail.com
+Crystal часть I - Создано: AzShadow
+Свяжитесь со мной по: azshadow@gmail.com
 
-Version: 1.31
+Версия: 1.31
 
 -----------------------------------
 
-Our planet has recently been infiltrated by aliens and we believe
-that a more devastating attack is imminent.
+Наша планета недавно была захвачена инопланетянами, и мы считаем,
+что более разрушительное нападение неизбежно.
 
-We found out that the source of these creatures is a secret
-research facility named Crystal which we lost a contact with a couple
-of weeks ago. Presumably the alien surge resulted from a faulty
-experiment but that is something we cannot change anymore.
+Мы выяснили, что источник этих существ — секретная исследовательская
+база под названием «Кристалл», с которой мы потеряли связь пару недель
+назад. Предположительно, наплыв инопланетян стал результатом неудачного
+эксперимента, но это уже нельзя исправить.
 
-Your team has been assigned the mission to destroy the alien source in
-Crystal and put an end to the alien infiltration. Keep in mind that
-the facility holds some very advanced technology - be careful and
-use it to your advantage if you can.
+Вашей команде поручена миссия уничтожить источник инопланетян на базе «Кристалл»
+и положить конец инопланетному вторжению. Имейте в виду, что на объекте находятся
+самые передовые технологии — будьте осторожны и используйте их в своих интересах,
+если сможете.
 
-As you approach your destination you managed to sneak into the lobby of
-Crystal via the facility's ventilation system. It's up to you to
-finish the job from here on.
+Когда вы приблизитесь к месту назначения, вам удастся пробраться в зал «Кристалла»
+через вентиляционную систему. Отсюда вам предстоит завершить работу.
 
-Good luck!
+Удачи!
