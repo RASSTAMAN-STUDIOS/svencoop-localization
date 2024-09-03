@@ -1,49 +1,49 @@
-WARFORTS - by Tuesday's Avenger
-ctf_warforts.bsp - Update 1.4 
+WARFORTS - от Tuesday's Avenger
+ctf_warforts.bsp - Обновление 1.4 
 
 
 
-== HOW TO PLAY ==
+== КАК ИГРАТЬ ==
 
-WARFORTS is a player-versus-player (PvP) map in which two megacorporations (the Yellow and Blue teams) send agents to capture each other's flags while defending their own bases. 
+WARFORTS - это карта режима «игрок против игрока» (PvP), на которой две мегакорпорации (жёлтая и синяя команды) отправляют агентов для захвата флагов друг у друга, защищая при этом собственные базы.
 
-MAIN OBJECTIVE:
+ОСНОВНАЯ ЗАДАЧА:
 
-Capture the enemy flag & return it to your base! You can capture the flag by carrying it up to your own flag post; capture is possible even if your flag is misssing. You will be able to tell a flag carrier by the glow effect matching the color of the flag he carries. 
+Захватите вражеский флаг и верните его на свою базу! Вы можете захватить флаг, поднеся его к своему флагштоку; захват возможен даже в том случае, если ваш флаг отсутствует. Вы сможете опознать флагоносца по эффекту свечения, совпадающему с цветом флага, который он несёт.
 
-The first team to reach 5 captures is victorious.
-
-
-SUB-OBJECTIVES:
-
-In addition to the enemy flag, players can attack a number of secondary targets during play.
-
-Each base includes four destroyable structures, which will take damage only from explosives:
-
-- Left & right shield generators, which power the lasers that prevent enemies from scaling the side walls.
-- A signal jammer, which will cause the enemy to spawn rocket & HW grunts if lost.
-- A door control unit which, if destroyed, will leave the front gate open & vulnerable.
-
-Additionally, occupying the side bunker will bring its defenses under your team's control.
-
-The Mortar in the center of the map can be controlled by either team; it is very useful for smashing enemy defenses.
+Побеждает команда, первой достигшая 5 захватов.
 
 
+ДОПОЛНИТЕЛЬНЫЕ ЗАДАЧИ:
+
+Помимо вражеского флага, игроки могут атаковать ряд второстепенных целей во время игры.
+
+Каждая база включает в себя четыре разрушаемые конструкции, которые получают урон только от взрывчатки:
+
+- Левый и правый генераторы щита, которые питают лазеры, не позволяющие врагам забраться на боковые стены.
+- Глушитель сигнала, при потере которого враг будет спавнить ракетчиков и пулемётчиков.
+- Блок управления дверьми, при уничтожении которого передние ворота останутся открытыми и уязвимыми.
+
+Кроме того, захват бокового бункера переведёт его оборону под контроль вашей команды.
+
+Миномёт в центре карты может контролироваться любой командой; он очень полезен для разрушения вражеской обороны.
 
 
-== CLASSES ==
 
-Seven classes are available on WARFORTS. Make sure to read up on their unique abilities to get the most out of them:
-(If you want to change your class, hold the USE key as you respawn.)
+
+== КЛАССЫ ==
+
+В WARFORTS доступны семь классов. Обязательно ознакомьтесь с их уникальными способностями, чтобы использовать их по максимуму:
+(Если вы хотите сменить класс, удерживайте клавишу ИСПОЛЬЗОВАТЬ при возрождении).
 
 ---
-Flanker
-HP: 55
-Armor: 10
-Weapons: Uzi, Desert Eagle
-Special ability: Second Wind (Passive, on flag grab)
+Фланкер
+Здоровье: 55
+Броня: 10
+Оружие: Uzi, Desert Eagle
+Особые способности: Второе дыхание (пассивное, при захвате флага)
 
-Fast and fragile, the Flanker specializes in hit and run combat. His passive ability will heal him to full when picking up the enemy flag, allowing him to survive the escape run. His increased base speed and reduced gravity allow him to clear obstacles that would stop other classes.
+Быстрый и хрупкий Фланкер специализируется на боях «бей и беги». Его пассивная способность полностью исцеляет его при захвате вражеского флага, позволяя ему выжить после побега. Его увеличенная базовая скорость и сниженная гравитация позволяют ему преодолевать препятствия, которые остановили бы другие классы.
 
 
 ---
