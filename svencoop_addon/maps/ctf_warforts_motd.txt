@@ -41,7 +41,7 @@ WARFORTS - это карта режима «игрок против игрока» (PvP), на которой две мегакорп
 Здоровье: 55
 Броня: 10
 Оружие: Uzi, Desert Eagle
-Особая способность: Второе дыхание (пассивное, при захвате флага)
+Особая способность: Второе дыхание (пассивная, при захвате флага)
 
 Быстрый и хрупкий Фланкер специализируется на боях «бей и беги». Его пассивная способность полностью исцеляет его при захвате вражеского флага, позволяя ему выжить после побега. Его увеличенная базовая скорость и сниженная гравитация позволяют ему преодолевать препятствия, которые остановили бы другие классы.
 
@@ -59,27 +59,27 @@ WARFORTS - это карта режима «игрок против игрока» (PvP), на которой две мегакорп
 
 
 ---
-Support
-HP: 75
-Armor: 20
-Weapons: 357, Wrench, Satchel Charge x2
-Special ability: Sentry Gun (Active, hold USE)
+Поддержка
+Здоровье: 75
+Броня: 20
+Оружие: 357, Гаечный ключ, Ранцевый заряд x2
+Особая способность: Автоматическая турель (активная, удерживайте ИСПОЛЬЗОВАТЬ)
 
-The Support is the backbone of a team's defense. She can deploy a sentry gun by holding the USE key for a few seconds; Supports are limited to one gun at a time, and after a gun is lost, there is a delay before another can be placed. On death, a sentry will transfer the frags it has earned to its owner.
+Поддержка является основой защиты команды. Она может развернуть автоматическую турель, удерживая клавишу ИСПОЛЬЗОВАТЬ в течение нескольких секунд; класс Поддержка ограничен одной турелью за раз, и после потери турели будет задержка, прежде чем можно будет установить новую. При смерти турель передаст набранные фраги своему владельцу.
 
-The Support is also the only class capable of repairing base structures & turrets by using the wrench.
+Поддержка также является единственным классом, способным ремонтировать базовые сооружения и турели с помощью гаечного ключа.
 
 
 ---
-Operative
-HP: 60
-Armor: 5
-Weapons: Knife, Crossbow, Tripmine x2
-Special Ability: Cloak (Active, hold CROUCH)
+Оперативник
+Здоровье: 60
+Броня: 5
+Оружие: Нож, Арбалет, Мина-ловушка x2
+Особая способность: Маскировка (активная, удерживайте ПРИСЕСТЬ)
 
-If everyone hates you, you're playing Operative correctly. Holding CROUCH for a few seconds will render the Operative invisible to NPCs and almost impossible for players to see; use this to line up kills with your one-shot-kill knife or long range crossbow.
+Если вас все ненавидят, значит, вы правильно играете Оперативником. Удерживание клавиши ПРИСЕСТЬ в течение нескольких секунд, сделает Оперативника невидимым для NPC и почти невидимым для игроков; пользуйтесь этим, чтобы выстраивать очереди убийств с помощью ножа, поражающего одним ударом или дальнобойного арбалета.
 
-Note that attacking or standing up will remove your cloak; only tripmines can be placed while remaining stealthy.
+Обратите внимание, что атака или вставание снимут маскировку; только мины-ловушки можно ставить, оставаясь невидимым.
 
 
 ---
