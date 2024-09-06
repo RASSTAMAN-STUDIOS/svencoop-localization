@@ -83,15 +83,15 @@ WARFORTS - это карта режима Ђигрок против игрокаї (PvP), на которой две мегакорп
 
 
 ---
-Research
-HP: 95
-Armor: 5
-Weapons: Barnacle, Spore Launcher, Medkit
-Special Ability: Healing Aura (Active, hold USE)
+»сследователь
+«доровье: 95
+Ѕрон€: 5
+ќружие: Ѕарнакл, —поромЄт, јптечка
+ќсоба€ способность: »сцел€юща€ аура (активна€, удерживайте »—ѕќЋ№«ќ¬ј“№)
 
-The Research class has spent too much time in the lab, and gained some strange abilities. His barnacle weapon allows him to fly around the map to grapple points, and his active ability will heal all friendly players within a certain radius as long as the USE key is held. Enemy players caught within the healing field will be poisoned.
+»сследовательский класс провЄл слишком много времени в лаборатории и приобрЄл некоторые странные способности. ≈го оружие - Ѕарнакл позвол€ет ему летать по карте использу€ точки захвата, а его активна€ способность исцел€ет всех дружественных игроков в определЄнном радиусе, пока удерживаетс€ клавиша »—ѕќЋ№«ќ¬ј“№. ¬ражеские игроки, оказавшиес€ в зоне исцелени€, будут отравлены.
 
-Research is the only class capable of reviving dead players.
+»сследователь - единственный класс, способный оживл€ть мЄртвых игроков.
 
 
 ---
