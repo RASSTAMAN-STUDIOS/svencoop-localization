@@ -95,13 +95,13 @@ WARFORTS - это карта режима «игрок против игрока» (PvP), на которой две мегакорп
 
 
 ---
-Assault
-HP: 150
-Armor: 30
-Weapons: Shotgun, MP5, Grenade x5
-Special Ability: Invincibility (Passive, on player kill)
+Штурмовик
+Здоровье: 150
+Броня: 30
+Оружие: Дробовик, MP5, Граната x5
+Особая способность: Неуязвимость (пассивная, при убийстве игрока)
 
-The Assault class mixes survivability with an adaptable loadout, making him suitable for any role and a threat to any class. When the Assault kills an enemy player, he will glow red and become immune to all damage for several seconds.
+Класс «Штурмовик» сочетает в себе выживаемость и адаптируемое снаряжение, что делает его подходящим для любой роли и угрозой для любого класса. Когда штурмовик убивает вражеского игрока, он светится красным цветом и становится неуязвимым к любому урону на несколько секунд.
 
 
 ---
