@@ -105,15 +105,15 @@ WARFORTS - это карта режима «игрок против игрока» (PvP), на которой две мегакорп
 
 
 ---
-Marine
-HP: 70
-Armor: 10
-Weapons: RPG x3, M16/M203 x2, Glock
-Special Ability: Artillery Retaliation (Passive, on death)
+Морпех
+Здоровье: 70
+Броня: 10
+Оружие: РПГ x3, M16/M203 x2, Glock
+Особая способность: Артиллерийское возмездие (пассивная, при смерти)
 
-The Marine dishes out lots of damage at range, with very limited ammo; he fares more poorly at close quarters where he is at risk from his own explosives. A Marine's rockets can be the difference between preventing a capture and losing the flag!
+Морской пехотинец наносит большой урон на расстоянии, имея при этом очень ограниченный боезапас; в ближнем бою он подвергается риску от собственной взрывчатки. Ракеты морпеха могут стать решающим фактором между тем, чтобы не дать захватить флаг, или тем, чтобы его потерять!
 
-On death, the Marine's allies off-screen will retaliate with an artillery strike at his final position. The Marine receives full points for enemies killed in the strike.
+После смерти морпеха его союзники за пределами экрана нанесут ответный артиллерийский удар по его последней позиции. Морпех получает полные очки за врагов, убитых во время удара.
 
 
 
