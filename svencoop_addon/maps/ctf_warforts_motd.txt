@@ -118,18 +118,18 @@ WARFORTS - это карта режима «игрок против игрока» (PvP), на которой две мегакорп
 
 
 
-== ADDITIONAL CREDITS ==
+== ДОПОЛНИТЕЛЬНЫЕ БЛАГОДАРНОСТИ ==
 
-Textures:
-Firearms mod & PVK mod teams
+Текстуры:
+Команды модов Firearms и PVK
 
-Testing & Moral Support:
-JPolito, Aurora, Trempler, Keen, A Ninja, Chaos Wake, prolix, Strave, x3ro, the Sven Co-op & joe.to communities
+Тестирование и моральная поддержка:
+JPolito, Aurora, Trempler, Keen, A Ninja, Chaos Wake, prolix, Strave, x3ro, сообщества Sven Co-op и joe.to
 
-Being a tripmining bastard:
+За то, что был трипминирующим ублюдком:
 Tokengekko
 
 
 
-Thanks for reading; I hope you enjoy playing this map as much as I enjoyed making it!
+Спасибо, что прочитали; надеюсь, вам понравится играть на этой карте так же, как мне понравилось её создавать!
    - tu3sday
