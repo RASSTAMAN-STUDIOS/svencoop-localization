@@ -1,26 +1,26 @@
-Desert Circle - Map by the-middleman
+Desert Circle - Карта от the-middleman
 
-Mission: Conquer the castle and kill the King
+Миссия: Завоевать замок и убить короля
 
-DO NOT ATTACK DIRECTLY - TOO DANGEROUS
+НЕ АТАКУЙТЕ НАПРЯМУЮ - СЛИШКОМ ОПАСНО
 
-1. Conquer the outposts in the desert.
-2. Use the mortar to breach the castle walls.
-3. Enter castle through the breach
-4. Destroy the explosive crates to destroy the
-   sniper towers
-5. Open castle gates
-6. Conquer castle
-7. Kill the King
-
-
-
-Feel free to use all textures, models, sounds etc.
-that come with this map. Credits are nice but not
-mandatory.
+1. Завоюйте аванпосты в пустыне.
+2. Используйте миномёт, чтобы пробить стены замка.
+3. Войдите в замок через образовавшийся пролом
+4. Уничтожьте ящики со взрывчаткой, чтобы разрушить
+   снайперские башни
+5. Откройте ворота замка
+6. Завоюйте замок
+7. Убейте короля
 
 
-Thanks to all the helpers:
+
+Не стесняйтесь использовать все текстуры, модели, звуки и т.д.
+которые поставляются с этой картой. Указание авторства приветствуется,
+но не обязательно.
+
+
+Спасибо всем помощникам:
 Dynamite
 JPolito
 Maiten
@@ -31,6 +31,6 @@ TrEmPlEr
 wolf-3d
 w00tguy
 
-groundtexture from google-maps
+Текстуре земли из Google Карт
 
-And everyone I forgot!
+И всем, кого я забыл!
