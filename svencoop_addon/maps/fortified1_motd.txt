@@ -2,14 +2,14 @@
 Fortified 1: Assault on Death Station
 -------------------------------------
 
-Server owners: For this level, please disable XP Mod and other servermods that radically alter the gameplay. Give the level a chance to be played as it was intended.
+Владельцам серверов: Для этого уровня, пожалуйста, отключите XP Mod и другие серверные моды, которые радикально меняют игровой процесс. Дайте уровню шанс быть сыгранным так, как он был задуман.
 
 
-A bad situation has arisen. There will be a briefing by General McSteel in a few minutes. Attend the briefing, then fix the problem.
+Возникла неприятная ситуация. Через несколько минут генерал МакСтил проведёт брифинг. Посетите брифинг, а затем решите проблему.
 
 
 
-Level designed by Nih.
+Уровень разработан Nih.
 
 
 
