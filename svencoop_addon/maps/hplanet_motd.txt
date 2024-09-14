@@ -5,12 +5,12 @@
 форм жизни. Повстанческие силы пользуются моментом и отправляют группу наёмников, чтобы
 вывести базу из строя и добить оставшихся солдат. 
 
-The mercenaries' ship lowers into the Hostile Planet's orbit and aims it's teleporters
-onto the surface. You awaken inside the ship's barracks. You must arm yourself and assault
-the planet below. If you can destroy the base's main security terminals it will no longer
-be able to withstand the alien bombardment. You'll be beamed out afterward.
+Корабль наёмников опускается на орбиту враждебной планеты и направляет телепортаторы
+на поверхность. Вы просыпаетесь в казарме корабля. Вы должны вооружиться и штурмовать
+планету внизу. Если вы сможете уничтожить главные терминалы безопасности базы, они больше
+не смогут противостоять бомбардировке пришельцев. После этого вы будете телепортированы.
 
-***Good Luck***
+***Удачи***
 
 =========================================================================================
 
