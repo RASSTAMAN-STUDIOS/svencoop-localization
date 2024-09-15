@@ -14,60 +14,60 @@
 
 =========================================================================================
 
-*THANKS!!!
+*СПАСИБО!!!
 
-Chalupamonk - For designing a kick-ass custom sky and being very helpful throughout the
-		process. Thanks man.
+Chalupamonk - За разработку офигенного кастомного неба и большую помощь на протяжении всего
+		процесса. Спасибо, чувак.
 
-Sven - For taking the time to answer all my emails at lightining speed and giving me an
-	opportunity to contribute to this awesome project.
+Sven - За то, что нашёл время ответить на все мои письма с молниеносной скоростью и дал мне
+	возможность внести свой вклад в этот потрясающий проект.
 
-
-==========================================================================================
-
-Title			: Hostile Planet
-Author			: Tylak
-Date			: 9/26/2001, my deepest sympathy for victims of the reccent attacks
-Filename		: hplanet.bsp
-Email Address		: tylak@london.com
-Description		: Conquer the Hostile Planet!
 
 ==========================================================================================
 
-*Play Information*
+Название		: Враждебная планета (Hostile Planet)
+Автор			: Tylak
+Дата			: 26.09.2001, мои глубочайшие соболезнования жертвам недавних терактов
+Имя файла		: hplanet.bsp
+Адрес эл. почты	: tylak@london.com
+Описание		: Покорите враждебную планету!
 
-Single Player		: Yes - but it's difficult without help.
-Deathmatch		: What's that?
-Cooperative		: SVEN COOP, FOREVER!
-Difficulty Settings	: it's fun how it is... but your welcome to edit the cfg
-New textures		: No, but it does feature a new sky by Chalupamonk!
-New sounds		: No
-Running the level	: Extract into your ../Half-Life folder
-Players			: 2-8 for the most fun.
+==========================================================================================
 
-*Construction*
+*Информация об игре*
 
-Base			: New level
-Editor used		: Worldcraft 3.3
-Build time              : 99 years
-Known bugs		: It'll chug a bit on older machines.
-Compile time            : You wouldn't believe me if I told you
+Одиночная игра		: Да, но сложно без помощи.
+Бой насмерть		: Что это?
+Кооператив		: SVEN COOP, FOREVER!
+Настройки сложности	: Весело так, как есть… но вы можете отредактировать конфиг
+Новые текстуры		: Нет, но есть новое небо от Chalupamonk!
+Новые звуки		: Нет
+Запуск уровня	: Распакуйте в папку ../Half-Life
+Игроки			: 2-8 для большего веселья.
 
-=========================================================================================
+*Строение*
 
-Notes : 
-
-* You should activate teleport destinations throughout the level so that players who
-die can beam down closer to the action.
-
-* There is an Uzi.
-
-* Send comments/suggestions to tylak@london.com
+Основа			: Новый уровень
+Используемый редактор		: Worldcraft 3.3
+Время строения              : 99 лет
+Известные баги		: Будет немного тормозить на старых машинах.
+Время компиляции            : Вы не поверите, если я вам скажу
 
 =========================================================================================
 
-If you want to put this level on a CD and/or sell it, please tell me. I don't want any
-money, I'd just like to know. Thanks!
+Примечания : 
+
+* Вы должны активировать точки назначения телепорта по всему уровню, чтобы игроки, которые
+умирают, могли телепортироваться ближе к действию.
+
+* Есть Uzi.
+
+* Отправляйте комментарии/предложения на tylak@london.com
+
+=========================================================================================
+
+Если вы хотите записать этот уровень на CD и/или продать его, пожалуйста, сообщите мне.
+Мне не нужны деньги, я просто хочу знать. Спасибо!
 
 -Tylak
 
