@@ -1,13 +1,13 @@
 Incoming! [2015 Edition]
 
-Somewhere in the universe.
+Где-то во Вселенной.
 
-After the residence cascade of the Black Mesa Research Facility, the superiors of the smaller research facilities have grown increasingly paranoid of their defence systems. Under the pressure of military "clean-outs" following the Black Mesa incident, they have decided to hire defence squads to further their chances of resisting attacks.
+После каскадного резонанса в исследовательском центре «Чёрная Меза» начальство небольших исследовательских центров стало всё более параноидально относиться к своим защитным системам. Под давлением военных «чисток» после инцидента в Чёрной Мезе они решили нанять оборонительные отряды, чтобы увеличить свои шансы противостоять нападениям.
 
-You and your teammates have just clocked in for another day of defending the Yellow Mesa facility. It wouldn't be a normal day without some random alien and military invasions, so best get your glorious hand cannons at the ready!
+Вы и ваши товарищи только что заступили на очередной день защиты объекта «Жёлтая Меза». Это не был бы обычный день без случайных вторжений инопланетян и военных, поэтому лучше всего держать наготове свои славные ручные пушки!
 
-[By Ryan Heeley aka BMT]
-[Music by Breakbeat Doc - soundcloud.com/breakbeat_doc]
-[Full credits in map readme located in SC map folder]
+[От Ryan Heeley aka BMT]
+[Музыка от Breakbeat Doc - soundcloud.com/breakbeat_doc]
+[Полный список авторов находится в readme карты, расположенном в папке карт Sven Co-op]
 
-!NOTE! This map uses game_text channels for onscreen instructions, please be aware of conflict issues if using additional server plugins.
+!ВНИМАНИЕ! Эта карта использует каналы game_text для отображения инструкций на экране. Пожалуйста, учитывайте возможные конфликты, если вы используете дополнительные серверные плагины.
