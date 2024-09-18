@@ -1,15 +1,15 @@
-INFESTED - by cold_blood3d
+INFESTED - от cold_blood3d
 =================================================
 
-Story: 
-Long after the incident at Black Mesa, most of the alien species has been eradicated from the planet. However, there are still many moderately sized populations of aliens scattered across the globe. Thousands of military troops have been dispatched to meet the rapid reproduction of the aliens. You are part of an elite, highly trained team, specialized in killing aliens.
+История: 
+Спустя долгое время после инцидента в Чёрной Мезе большая часть инопланетян была истреблена с планеты. Однако по всему миру всё ещё существует множество умеренных популяций инопланетян. Тысячи военных были направлены на борьбу с быстрым размножением инопланетян. Вы являетесь частью элитной, высококвалифицированной команды, специализирующейся на уничтожении пришельцев.
 
-Your Current Mission:
-Your team has been assigned to eliminate a large population of aliens in a genetic research building. You will arrive on a truck near the building entrance. It is likely that there will also be some human resistance since many of the troops have been brainwashed by the aliens. The human opposition is the aliens' first line of defense. These are your objectives:
+Ваша текущая миссия:
+Вашей команде поручено уничтожить большую популяцию инопланетян в здании генетических исследований. Вы прибудете на грузовике недалеко от входа в здание. Вполне вероятно, что будет и сопротивление людей, так как многим из них промыли мозги инопланетяне. Человеческое сопротивление - это первая линия обороны пришельцев. Вот ваши задачи:
 
-4. Continue your ascent of the building, until reaching the CenCom Laboratories.
+4. Продолжайте подниматься по зданию, пока не доберётесь до лабораторий CenCom.
 
-5. Once in the CenCom Labs, you must rescue the valuable Gauss Gun so it is not lost in the explosion.
+5. Оказавшись в лабораториях CenCom, вы должны спасти ценную Гаусс-пушку, чтобы она не пропала при взрыве.
 
-6. Find the Control Center in the CenCom Labs. Activate the building's self-termination sequence to ensure that all aliens are killed. If you wish to save yourself, you will have to quickly get to the building's underground transit system where a train will be waiting for you.
+6. Найдите центр управления в лабораториях CenCom. Активируйте процедуру самоуничтожения здания, чтобы все инопланетяне погибли. Если вы хотите спастись, вам придётся быстро добраться до подземной транспортной системы здания, где вас будет ждать поезд.
 
