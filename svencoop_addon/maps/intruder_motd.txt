@@ -1,6 +1,6 @@
-Title			: Intruder
-Game			: Half-Life SvenCoop
-Author			: Turrican
-Contact-
+Название		: Intruder
+Игра			: Half-Life SvenCoop
+Автор			: Turrican
+Контакт-
 	AIM		: Furrican
-Web Address		: http://turrican.decksix.com
+Веб-адрес		: http://turrican.decksix.com
