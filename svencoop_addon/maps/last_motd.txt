@@ -1,22 +1,22 @@
-The year is 4052, Earth was blown out ages ago.
-A fatal meteorcrash started a nuclear winter, which
-wiped out most of the human race. The survivors 
-were forced to find a new planet suitable for 
-living. Thanks to Wormhole-Technology the survivors
-found an Earth-like Planet : New Hope.
-New Hope seemed like a new future for the human
-race, until the first attacks started. An unknown 
-alien race, named Argressians, attacked the new
-founded settlements. There was no defense at all. 
-Again forced, the humans picked up their weapon
-production and fought back, but the Agressians
-outnumbered the humans with their waygates.
+Год 4052-й, Земля сгорела много лет назад.
+Роковое столкновение метеорита положило начало
+ядерной зиме, которая уничтожила большую часть
+человеческой расы. Выжившие были вынуждены искать
+новую планету, пригодную для жизни. Благодаря
+технологии червоточин выжившие нашли планету, похожую
+на Землю: Новую Надежду. Новая Надежда казалась новым
+будущим для человеческой расы, пока не начались первые
+нападения. Неизвестная инопланетная раса, названная
+агрессианами, напала на новообразованные поселения.
+Защиты не было никакой. Снова вынужденные, люди подняли
+производство оружия и дали отпор, но агрессиане превзошли
+их числом благодаря своим путевым воротам.
 
-The humans founded a special team of Elite Fighters.
-These fighters should be able to find the source
-of the waygates and shut them down, forever.
+Люди основали специальную команду элитных бойцов.
+Эти бойцы должны найти источник
+путевых ворот и закрыть их навсегда.
 
-You are one of those Elite Fighters.
+Вы - один из этих элитных бойцов.
 
-Objectives :
-* Report to the HQ
+Задачи :
+* Доложить в штаб-квартиру
