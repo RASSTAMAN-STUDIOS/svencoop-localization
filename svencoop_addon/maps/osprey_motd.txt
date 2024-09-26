@@ -1,20 +1,19 @@
-OSPREY ATTACK - Arena-type
+АТАКА OSPREY - Тип «Арена»
 
-Objective: Destroy the Osprey Helicopter.
+Задача: Уничтожьте вертолет Osprey.
 
-Tips:
+Советы:
 
-» There are explosive crates on the observation deck. 
-  Be careful around this area!
+» На смотровой площадке есть ящики со взрывчаткой. 
+  Будьте осторожны в этой зоне!
 
-» If the grunts are overwhelming you and your teammates,
-  push the "WARNING" button under the observation deck.
-  It will spawn a Gonarch and should even the playing
-  field.
+» Если Grunt'ы одолевают вас и ваших товарищей по команде,
+  нажмите кнопку «WARNING» под смотровой площадкой.
+  Это приведет к появлению Гонарха и уравняет шансы.
 
-» 4 m203 Grenades are available in the freezer. You will
-  need to run quickly in and out though, or you will
-  die from the cold.
+» 4 гранаты m203 доступны в морозильной камере. Вам
+  нужно быстро бегать туда-сюда, иначе вы
+  погибнете от холода.
 
-» There is an UZI in the red crates outside. Find a way
-  into the crates to get the weapon.
+» В красных ящиках снаружи лежит UZI. Найдите путь
+  к ящикам, чтобы получить оружие.
