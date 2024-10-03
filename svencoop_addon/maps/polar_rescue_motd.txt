@@ -17,62 +17,62 @@ http://www.scmapdb.com/map:polar-rescue
 
 Три элитных солдата уже отправлены в этот район. Надеемся, они смогут добраться до вас и помочь вам в выполнении миссии, хотя не стоит на это сильно рассчитывать.
 
-An Osprey helicopter will arrive to extract your team and the hostages once all your objectives are completed and the landing platform is clear. Use a radio to call for your extraction once your mission is completed.
+Вертолёт Osprey прибудет для эвакуации вашей команды и заложников, как только все ваши задачи будут выполнены и посадочная площадка будет очищена. Используйте радио, чтобы вызвать эвакуацию, когда ваша миссия будет завершена.
 
-Your objectives are:
+Ваши задачи:
 
-1. Secure hostages before they are executed
-2. Disarm nuclear warheads
-3. Collect all secret documents
-4. Clear the landing platform for extraction
-5. Escort hostages to the radio room for safe refuge
+1. Обезопасить заложников до их казни
+2. Обезвредить ядерные боеголовки
+3. Собрать все секретные документы
+4. Очистить посадочную площадку для эвакуации
+5. Сопроводить заложников в радиорубку для безопасного укрытия
 
-Rescuing the hostages is your absolute top priority, and you only have a short time before the gang boss has them executed! Ensure they are safe before attempting any other objectives.
+Спасение заложников — ваш абсолютный приоритет, и у вас есть совсем немного времени, прежде чем главарь банды их казнит! Убедитесь, что они в безопасности, прежде чем приступать к выполнению других задач.
 
-Failure will denote your redundancy to our elite team -- and nobody leaves us, alive.
+Неудача будет означать вашу ненужность для нашей элитной команды — а от нас никто не уходит живым.
 
 
-.: Known issues / requirements :.
+.: Известные проблемы / требования :.
 
-This map requires Sven Co-op version 5.25 or later.
+Для этой карты требуется Sven Co-op версии 5.25 или более поздней.
 
-Please use this thread to report new bugs, or on its SCMapDB page:
+Пожалуйста, используйте эту тему для сообщений о новых багах или страницу SCMapDB:
 https://forums.svencoop.com/showthread.php/37324
 http://www.scmapdb.com/map:polar_rescue
 
 
-.: Credits :.
+.: Благодарности :.
 
-Map created by Adam "Adambean" Reece
+Карта создана Адамом "Adambean" Рисом
 https://www.reece.wales/
 
-Protector for helping me with some new entities
+Protector'у за помощь с некоторыми новыми энтитями
 http://scmapdb.com/mapper:protector
 
-The Sven Co-op team for letting me use the very latest code to make and test this map on
+Команде Sven Co-op за предоставление самого последнего кода для создания и тестирования этой карты
 https://www.svencoop.com/
 
-"Polar Day" sky map by [WTF?]Deraj at The Wadfather
+Карта неба "Polar Day" от [WTF?]Deraj на The Wadfather
 http://www.planethalflife.com/wadfather/
 
-The303 for the dome camera model
+The303 за модель купольной камеры
 https://forums.svencoop.com/member.php/17023-The303
 
-Hezus for the Roland MT-32 model and objectives script (from SnD) to steal
+Hezus за модель Roland MT-32 и скрипт задач (из SnD) для кражи
 http://scmapdb.com/mapper:hezus
 
 Lotus III: The Ultimate Challenge
-Magnetic Fields / Gremlin Graphics (1993), music by Patrick Phelan
+Magnetic Fields / Gremlin Graphics (1993), музыка Патрика Фелана
 
-AlexCorruptor for pointing out many of my idiot mistakes. (Mostly unreachable non-null faces.)
+AlexCorruptor за решение многих моих идиотских ошибок. (В основном недостижимые ненулевые поверхности.)
 http://scmapdb.com/mapper:alexcorruptor
 
-The following people for their time helping me test this map:
-(In order of who played the map first. All prior to first mainstream release.)
+Следующим людям за их время, потраченное на тестирование этой карты:
+(В порядке, кто играл в карту первым. Все до первого массового выпуска.)
 
 * Decca
 * amnizu
-* Dynamite (now Tunac)
+* Dynamite (теперь Tunac)
 * Liberator
 * Shryko
 * Rich-Kane
@@ -80,7 +80,7 @@ The following people for their time helping me test this map:
 * Retro-Fish
 
 
-.: Change log :.
+.: Список изменений :.
 
 Development (22nd July, 2009)
 
