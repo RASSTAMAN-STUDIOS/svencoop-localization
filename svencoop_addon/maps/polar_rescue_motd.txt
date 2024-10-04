@@ -82,18 +82,18 @@ http://scmapdb.com/mapper:alexcorruptor
 
 .: Список изменений :.
 
-Development (22nd July, 2009)
+Разработка (22 июля, 2009)
 
-    * Map started
+    * Начало создания карты
 
-Alpha 1 (29th June, 2010)
+Alpha 1 (29 июня, 2010)
 
-    * Map completed (afaik), ready to be tested
+    * Карта завершена (насколько я знаю), готова к тестированию
 
-Alpha 2 (13th July, 2010)
+Alpha 2 (13 июля, 2010)
 
-    * Added env_sound entities to apply various effects in cavernous/tunnel/large areas
-    * Moved the two mini-turrets away from the corner of the wall so their sounds work
+    * Добавлены env_sound энтити для применения различных эффектов в пещерных/туннельных/больших областях
+    * Перемещены две мини-турели подальше от угла стены, чтобы их звуки работали
 
 Alpha 3 (15th July, 2010)
 
