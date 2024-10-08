@@ -126,26 +126,26 @@ http://scmapdb.com/mapper:alexcorruptor
 
     *  арта скомпилирована с использованием новой версии SHLT x64 (3.9), без фактических изменений самой карты
 
-Release Candidate 1 (6th August, 2010)
+ андидат на релиз 1 (6 августа, 2010)
 
-    * Added some extra detail here and there, couple more lights to help solve "blackholes"
-    * Added some extra guards for when the alarm is activated
-    * Increased starting health and armour from 150/100 to 200/200 as the guards are actually very hard
-    * Made the blue stacked pipes near the fuel area hollow, they looked stupid with black texture ends
+    * ƒобавлены дополнительные детали здесь и там, несколько дополнительных источников света дл€ устранени€ УчЄрных дырФ
+    * ƒобавлены дополнительные охранники на случай активации тревоги
+    * ѕовышен начальный уровень здоровь€ и брони с 150/100 до 200/200, так как охранники оказались очень сложными
+    * —деланы синие сложенные трубы возле топливной зоны полыми, они выгл€дели тупо с чЄрными текстурированными концами
 
-Release Candidate 2 (7th August, 2010)
+ андидат на релиз 2 (7 августа, 2010)
 
-    * Optimized node layout according to Puchi's advice
-    * Put starting armour back to 100, as 200 was just too much
+    * ќптимизировано расположение узлов в соответствии с советами Puchi
+    * ¬озвращЄн начальный уровень брони к 100, так как 200 оказалось слишком много
 
-Release Candidate 3 (12th August, 2010)
+ анидат на релиз 3 (12 августа, 2010)
 
-    * Added a push block forcing the hostages to move slightly in the execution cut scene, to ensure they die
-    * Added some extra detail here and there
-    * Added some extra guards to the reactor room
-    * Added two HEV chargers and some batteries dotted about
-    * Inverted the breakthrough tunnel direction in the bottom storage room to fix bad lighting
-    * Sort of fixed the 2 scripted guards not doing their thing
+    * ƒобавлен толкающий блок, заставл€ющий заложников немного двигатьс€ в катсцене казни, чтобы гарантировать их смерть
+    * ƒобавлены дополнительные детали здесь и там
+    * ƒобавлены дополнительные охранники в комнату реактора
+    * ƒобавлены два зар€дных устройства HEV и несколько разбросанных батарей
+    * »нвертировано направление прорывного туннел€ в кладовой на нижнем этаже дл€ исправлени€ плохого освещени€
+    * ¬роде как исправлено то, что 2 заскриптованных охранника не выполн€ли своих об€занностей
 
 Release Candidate 4 (17th August, 2010)
 
