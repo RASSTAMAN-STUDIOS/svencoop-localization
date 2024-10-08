@@ -104,27 +104,27 @@ http://scmapdb.com/mapper:alexcorruptor
     * Исправлен взрыв ядерной ракеты, не убивающий игроков
     * Исправлены плохие браши у боеголовок ядерных ракет
 
-Beta 1 (21st July, 2010)
+Бета 1 (21 июля, 2010)
 
-    * Added some extra detail to the middle floor
-    * Fixed 2 scripted guards not always trying to run to their buttons
-    * Fixed hostage safety zone
-    * Tweaked skill configuration
-    * Using final compile configuration
+    * Добавлены дополнительные детали на среднем этаже
+    * Исправлены 2 заскриптованных охранника, которые не всегда пытались добежать до своих кнопок
+    * Исправлена зона безопасности заложников
+    * Подправлена конфигурация сложности
+    * Используется финальная конфигурация компиляции
 
-Beta 2 (26th July, 2010)
+Бета 2 (26 июля, 2010)
 
-    * Added some extra detail here and there
-    * Fixed lighting in pretty much all areas, apart from the bottom floor storage room
-    * Fixed random guard in the bottom floor storage room blocking players in by the teleporter switch
-    * Removed some ammo from main corridors to encourage players to search rooms more
-    * Tweaked brushwork around the fuel area
-    * Tweaked monster nodes
-    * Tweaked skill configuration
+    * Добавлены дополнительные детали здесь и там
+    * Исправлено освещение практически во всех областях, кроме кладовой на нижнем этаже
+    * Исправлен случайный охранник в кладовой на нижнем этаже, блокирующий игроков у переключателя телепорта
+    * Убрано несколько боеприпасов из главных коридоров, чтобы побудить игроков больше исследовать комнаты
+    * Подправлены браши вокруг топливной зоны
+    * Подправлены узлы монстров
+    * Подправлена конфигурация сложности
 
-Beta 3 (29th July, 2010)
+Бета 3 (29 июля, 2010)
 
-    * Compiled map with newer SHLT x64 (3.9), no actual map changes
+    * Карта скомпилирована с использованием новой версии SHLT x64 (3.9), без фактических изменений самой карты
 
 Release Candidate 1 (6th August, 2010)
 
