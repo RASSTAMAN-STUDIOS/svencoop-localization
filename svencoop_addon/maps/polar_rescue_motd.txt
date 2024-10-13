@@ -147,15 +147,15 @@ http://scmapdb.com/mapper:alexcorruptor
     * Инвертировано направление прорывного туннеля в кладовой на нижнем этаже для исправления плохого освещения
     * Вроде как исправлено то, что 2 заскриптованных охранника не выполняли своих обязанностей
 
-Release Candidate 4 (17th August, 2010)
+Кандидат на релиз 4 (17 августа, 2010)
 
-    * Added lasers to the vault, though mainly for decoration
-    * Added some extra detail here and there
-    * Fixed scientists in the execution cut scene not being in the intended pose (thanks Soctom)
-    * Fixed guard action scripts (thanks Sven Viking)
-    * Fixed some odd brushwork
-    * Made the keycard slot texture a bit better
-    * Some new girder textures for the vault
+    * Добавлены лазеры в хранилище, в основном для декорации
+    * Добавлены дополнительные детали здесь и там
+    * Исправлена поза ученых в катсцене казни (спасибо Soctom)
+    * Исправлены скрипты действий охранников (спасибо Sven Viking)
+    * Исправлен странный брашворк
+    * Улучшена текстура слота для ключ-карты
+    * Новые текстуры балок для хранилища
 
 Public release (22nd August, 2010)
 
