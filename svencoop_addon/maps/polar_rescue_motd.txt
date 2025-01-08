@@ -157,14 +157,14 @@ http://scmapdb.com/mapper:alexcorruptor
     * Улучшена текстура слота для ключ-карты
     * Новые текстуры балок для хранилища
 
-Public release (22nd August, 2010)
+Публичный релиз (22 августа, 2010)
 
-    * Added HUD info to most breakables, so players know they can break them
-    * Compiled map with Vluzacn's ZHLT 'VL17' (custom x64 build with special limits)
-    * Fixed invisible battery in front of the 2 chargers
-    * Fixed invisible sinks in 2 of the jail cells
-    * Fixed some odd lighting holes, thanks to Vluzacn's ZHLT modifications
-    * Moved the hostages away from the tight clipping area in case they get stuck (rare)
+    * Добавлена HUD-информация для большинства разрушаемых объектов, чтобы игроки знали, что они могут их сломать
+    * Скомпилирована карта с помощью Vluzacn's ZHLT 'VL17' (пользовательская x64 сборка с особыми ограничениями)
+    * Исправлена невидимая батарея перед 2 зарядными устройствами
+    * Исправлены невидимые раковины в 2 тюремных камерах
+    * Исправлены некоторые странные дыры в освещении, благодаря модификации ZHLT от Vluzacn'а
+    * Перемещены заложники подальше от узкой зоны клиппинга на случай, если они застрянут (редко)
 
 Revised (17th September, 2010)
 
