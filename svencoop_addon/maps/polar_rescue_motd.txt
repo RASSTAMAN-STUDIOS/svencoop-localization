@@ -166,13 +166,13 @@ http://scmapdb.com/mapper:alexcorruptor
     * Исправлены некоторые странные дыры в освещении, благодаря модификации ZHLT от Vluzacn'а
     * Перемещены заложники подальше от узкой зоны клиппинга на случай, если они застрянут (редко)
 
-Revised (17th September, 2010)
+Ревизия (17 сентября, 2010)
 
-    * Added more spawn points as a lot of tele-fragging was happening at the start of the map
-    * Embedded all my custom textures in the BSP
-    * The hostage execution timer is now cut off once the boss is killed, as many players could not find the cell key easily
-    * ^ Because of this, the hostage execution timer is down to 15 minutes from 20
-    * Tweaked a lot of the map core entities, should save some time and memory
+    * Добавлено больше точек спавна, так как в начале карты происходило много телефрагов
+    * Встроены все мои пользовательские текстуры в BSP
+    * Таймер казни заложника теперь отключается после убийства босса, так как многие игроки не могли легко найти ключ от камеры
+    * ^ Из-за этого таймер казни заложников уменьшился до 15 минут с 20
+    * Подкорректировано множество ключевых сущностей карты, что должно сэкономить время и память
 
 Revised 2 (7th June, 2011)
 
