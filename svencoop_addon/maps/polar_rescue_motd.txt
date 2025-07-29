@@ -174,23 +174,23 @@ http://scmapdb.com/mapper:alexcorruptor
     * ^ Из-за этого таймер казни заложников уменьшился до 15 минут с 20
     * Подкорректировано множество ключевых сущностей карты, что должно сэкономить время и память
 
-Revised 2 (7th June, 2011)
+Ревизия 2 (7 июня, 2011)
 
-    * Compiled map with Vluzacn's ZHLT 'VL23' (custom x64 build with special limits)
-    * Fixed a server crash when destroying a nuclear missile
-    * Fixed hostages sometimes freezing prior to entering the bottom floor teleporter
-    * Added messages to go with the remaining time announcements (top of the screen)
-    * Added Opposing Force knife to start equipment
-    * Using Opposing Force global model/sound replacements
-    * Increased 5.56mm start ammo from 1 clip to 2 clips
+    * Скомпилирована карта с помощью Vluzacn's ZHLT 'VL23' (пользовательская x64 сборка с особыми ограничениями)
+    * Исправлен сбой сервера при уничтожении ядерной ракеты
+    * Исправлена ошибка, из-за которой заложники иногда замирали перед входом в телепорт на нижнем этаже.
+    * Добавлены сообщения, сопровождающие объявления об оставшемся времени (в верхней части экрана)
+    * Добавлен нож из Opposing Force в начальное снаряжение
+    * Используются глобальные замены моделей/звуков из Opposing Force
+    * Увеличено начальное количество патронов 5.56 мм с 1 обоймы до 2 обойм
 
-Revised 3 (1st October, 2011)
+Ревизия 3 (1 октября, 2011)
 
-    * Fixed a server crash when a sniper assassin turns off the lights (I hope)
-    * Fixed a floating pipe -- silly me
-    * Fixed scientists not always moving to the teleporter properly (I hope)
-    * Added ultimate ammo replenishment backpack to the secret room
-    * Fiddled with some details, obviously
+    * Исправлен сбой сервера, когда снайпер-убийца выключает свет (надеюсь)
+    * Исправлена парящая труба -- я дурак
+    * Исправлена ошибка, из-за которой учёные не всегда правильно двигались к телепорту (надеюсь)
+    * Добавлен рюкзак с пополнением патронов до максимума в секретной комнате
+    * Поправил некоторые детали, разумеется
 
 Revised 4 (16th May, 2015)
 
