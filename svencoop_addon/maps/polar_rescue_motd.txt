@@ -192,43 +192,43 @@ http://scmapdb.com/mapper:alexcorruptor
     * Добавлен рюкзак с пополнением патронов до максимума в секретной комнате
     * Поправил некоторые детали, разумеется
 
-Revised 4 (16th May, 2015)
+Ревизия 4 (16 мая, 2015)
 
-    * Compiled map with Vluzacn's ZHLT 'VL33' for Sven Co-op 5.0
-    * Added difficulty selection at the start
-    * - Normal: 20 minute execution timer
-    * - Hard: 15 minute execution timer, extra guards, no ammo/item respawning
-    * Added sounds to individually issued messages that may go missed
-    * New red door and blue sign textures
-    * Overhauled many sections of the map
-    * - Added a chasm with a retractable bridge
-    * - Added a checkpoint activated when the bridge control room is entered
-    * - Added a ledge around the cliff side just for Solokiller
-    * - Added a medic with the cave ally bursting through the wall
-    * - Added environment sound FX across the map
-    * - Converted a level 1 storage room into a landing platform
-    * - Converted a level 2 storage room into a workshop
-    * - Converted a level 3 storage room into a radio room
-    * - Converted storage cage on floor B2 into bridge control room
-    * - Merged main elevators so 1 spans all 3 floors with the maintenance shaft
-    * - Moved the extraction point to the landing platform (when the cover opens)
-    * - Moved the hostage cells across the chasm
-    * - Redesigned the missile room to a nuclear reactor and warhead assembly
-    * - Redesigned the office section to a command centre
-    * - Redesigned the executions room to an incineration chamber with cut-scene
-    * - Replaced some male assassins for other NPC's (Barnabus and Otto)
-    * - Removed some pointless rooms
-    * - Removed the alarm button
-    * - Removed the ice on the cliff side
-    * - Removed the map in the start room (until I update it)
-    * - Removed the teleporters -- that was just a silly idea
-    * - The objectives phone will move to the bridge control room once reached
-    * - Tweaked all ambient sounds
-    * Lowered start health back to 100
-    * Rebalancing to the skill configuration
-    * Rebalancing to the NPC's so it's not all just instant kill by assassin
-    * Replaced transparent text textures for sprites
-    * Vastly optimized map details and their performance impacts
+    * Карта скомпилирована с помощью ZHLT 'VL33' от Vluzacn для Sven Co-op 5.0.
+    * Добавлен выбор уровня сложности в начале игры
+    * - Обычная: таймер на выполнение задания -- 20 минут
+    * - Сложная: таймер на выполнение задания -- 15 минут, больше охранников, без респавна боеприпасов и предметов.
+    * Добавлены звуковые сигналы к отдельным сообщениям, которые игроки могли пропустить
+    * Добавлены новые текстуры красной двери и синей вывески
+    * Переработаны многие участки карты
+    * - Добавлена пропасть с выдвижным мостом
+    * - Добавлена контрольная точка, активирующаяся при входе в комнату управления мостом
+    * - Добавлен уступ вдоль скалы специально для Solokiller
+    * - Добавлен медик вместе с союзником из пещеры, которые прорываются сквозь стену
+    * - По всей карте добавлены звуковые эффекты окружающей среды
+    * - Складское помещение на первом уровне переоборудовано в посадочную площадку
+    * - Складское помещение на втором уровне переоборудовано в мастерскую
+    * - Складское помещение на третьем уровне переоборудовано в радиорубку
+    * - Складская клетка на уровне B2 переоборудована в комнату управления мостом
+    * - Основные лифты объединены: теперь один лифт обслуживает все три этажа и соединён с технической шахтой
+    * - Точка эвакуации перенесена на посадочную площадку (после открытия защитного покрытия)
+    * - Камеры с заложниками перенесены на другую сторону пропасти
+    * - Ракетная комната переоборудована в ядерный реактор и цех сборки боеголовок
+    * - Офисная зона переоборудована в командный центр
+    * - Комната казней переоборудована в камеру для сжигания тел с кат-сценой
+    * - Некоторые мужчины-убийцы заменены другими NPC (Barnabus и Otto)
+    * - Удалены несколько бесполезных помещений
+    * - Удалена кнопка тревоги
+    * - Убран лёд со склона скалы
+    * - Удалена карта в стартовой комнате (до её обновления)
+    * - Удалены телепорты -- это была просто глупая идея
+    * - Телефон с целями задания будет перемещаться в комнату управления мостом после её открытия
+    * - Настроены все фоновые звуки
+    * Стартовый запас здоровья снова снижен до 100
+    * Перебалансированы настройки сложности
+    * Перебалансированы NPC, чтобы убийцы не уничтожали игроков мгновенно
+    * Прозрачные текстуры с текстом заменены спрайтами
+    * Значительно оптимизированы детали карты и снижена нагрузка, которую они создают
 
 Revised 5 (6th June 2021)
 
