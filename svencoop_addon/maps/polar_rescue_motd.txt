@@ -230,25 +230,25 @@ http://scmapdb.com/mapper:alexcorruptor
     * ѕрозрачные текстуры с текстом заменены спрайтами
     * «начительно оптимизированы детали карты и снижена нагрузка, которую они создают
 
-Revised 5 (6th June 2021)
+–евизи€ 5 (6 июн€, 2021)
 
-    * Added comprehensive materials definition for those noice footstep atmospherics
-    * Added extreme difficulty
-    * - Effectively the same as hard mode, but with survival mode enabled, super unfair (Thanks Orphanage and JPolito.)
-    * Added fire escape stairs beside the elevator shaft
-    * - Top floor blocked with sandbags, needs a high explosive detpack from the bottom floor to clear them (item model stolen from TFC)
-    * Changed camera objects to a dome camera model (from The303)
-    * Changed how the security station on the ground floor is accessed
-    * Changed rock netting at the start to be breakable, so you can see what you need to shoot inside
-    * Changed secret with a cool sound model (from Hezus)
-    * High definition objective sprites
-    * - Constantly remind Hezus that I stole and re-factored his SnD script to do this
-    * Huge redesign to the command centre (no longer a silly office)
-    * Huge redesign to the nuclear reactor (really gigantic)
-    * Lots more hint sprites (people love hint sprites)
-    * Minor redesign to the radio room
-    * Minor redesign to the security station
-    * Zillions of tweaks nobody cares about blah blah
+    * ƒобавлено подробное определение материалов дл€ реалистичных звуков шагов на различных поверхност€х
+    * ƒобавлен экстремальный уровень сложности
+    * - ѕо сути, он такой же, как сложный режим, но с включЄнным режимом выживани€, крайне несправедливый (спасибо Orphanage и JPolito.)
+    * ƒобавлена пожарна€ лестница р€дом с шахтой лифта
+    * - ¬ерхний этаж перекрыт мешками с песком, чтобы убрать их, потребуетс€ взрывной зар€д с нижнего этажа (модель предмета позаимствована из TFC)
+    * ћодели камер заменены моделью купольной камеры (от The303)
+    * »зменЄн способ доступа к посту охраны на первом этаже
+    * —етчатое ограждение из камней в начале карты теперь можно разрушить, чтобы было видно, во что нужно стрел€ть внутри
+    * —екретна€ комната изменена и получила интересную звуковую модель (от Hezus)
+    * ƒобавлены спрайты целей в высоком разрешении
+    * - Ќе забывайте напоминать Hezus, что € украл и переработал его скрипт из SnD дл€ реализации этого
+    * ѕолностью переработан командный центр (теперь это больше не нелепый офис)
+    * ѕолностью переработан €дерный реактор (теперь он по-насто€щему огромный)
+    * ƒобавлено огромное количество спрайтов-подсказок (люди их обожают)
+    * Ќемного переработана радиорубка
+    * Ќемного переработан пост охраны
+    * ћиллионы мелких изменений, которые никого не волнуют, бла-бла-бла
 
 
 .: Thanks :.
